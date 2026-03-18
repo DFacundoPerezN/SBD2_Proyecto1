@@ -1,0 +1,1644 @@
+anio_mundial,posicion,jugador,seleccion,goles,partidos,promedio_gol
+1930,1,Guillermo Stabile,Argentina,8,4,2.0
+1930,2,Pedro Cea,Uruguay,5,4,1.25
+1930,3,Bert Patenaude,Estados Unidos,4,3,1.33
+1930,4,Juan Anselmo,Uruguay,3,2,1.5
+1930,4,Ivica Bek,Yugoslavia,3,3,1.0
+1930,4,Carlos Peucelle,Argentina,3,4,0.75
+1930,4,Preguinho,Brasil,3,2,1.5
+1930,8,Hector Castro,Uruguay,2,2,1.0
+1930,8,Pablo Dorado,Uruguay,2,3,0.67
+1930,8,Victoriano Iriarte,Uruguay,2,4,0.5
+1930,8,Andre Maschinot,Francia,2,2,1.0
+1930,8,Moderato,Brasil,2,1,2.0
+1930,8,Luis Monti,Argentina,2,4,0.5
+1930,8,Manuel Rosas,México,2,3,0.67
+1930,8,Guillermo Subiabre,Chile,2,3,0.67
+1930,8,Carlos Vidal,Chile,2,3,0.67
+1930,8,Adolfo Zumelzu,Argentina,2,1,2.0
+1930,18,Jim Brown,Estados Unidos,1,3,0.33
+1930,18,Juan Carreno,México,1,3,0.33
+1930,18,Adalbert Desu,Rumania,1,2,0.5
+1930,18,Mario Evaristo,Argentina,1,4,0.25
+1930,18,Tom Florie,Estados Unidos,1,3,0.33
+1930,18,Roberto Gayon,México,1,2,0.5
+1930,18,Nicolae Kovacs,Rumania,1,2,0.5
+1930,18,Marcel Langiller,Francia,1,3,0.33
+1930,18,Lucien Laurent,Francia,1,2,0.5
+1930,18,Blagoje Marjanovic,Yugoslavia,1,3,0.33
+1930,18,Bart Mcghee,Estados Unidos,1,3,0.33
+1930,18,Hector Scarone,Uruguay,1,3,0.33
+1930,18,Alejandro Scopelli,Argentina,1,1,1.0
+1930,18,Branislav Sekulic,Yugoslavia,1,2,0.5
+1930,18,Luis Souza,Perú,1,2,0.5
+1930,18,Constantin Stanciu,Rumania,1,1,1.0
+1930,18,Aleksandar Tirnanic,Yugoslavia,1,3,0.33
+1930,18,Francisco Varallo,Argentina,1,4,0.25
+1930,18,Luis Vargas Pena,Paraguay,1,2,0.5
+1930,18,Djordje Vujadinovic,Yugoslavia,1,3,0.33
+1934,1,Oldrich Nejedly,Checoslovaquia,5,4,1.25
+1934,2,Edmund Conen,Alemania,4,4,1.0
+1934,2,Angelo Schiavio,Italia,4,4,1.0
+1934,4,Leopold Kielholz,Suiza,3,2,1.5
+1934,4,Raimundo Orsi,Italia,3,5,0.6
+1934,6,Abdulrahman Fawzi,Egipto,2,1,2.0
+1934,6,Giovanni Ferrari,Italia,2,4,0.5
+1934,6,Karl Hohmann,Alemania,2,2,1.0
+1934,6,Johann Horvath,Austria,2,2,1.0
+1934,6,Iraragorri,España,2,2,1.0
+1934,6,Sven Jonasson,Suecia,2,2,1.0
+1934,6,Ernest Lehner,Alemania,2,4,0.5
+1934,6,Giuseppe Meazza,Italia,2,5,0.4
+1934,6,Antonin Puc,Checoslovaquia,2,4,0.5
+1934,6,Frantisek Svoboda,Checoslovaquia,2,3,0.67
+1934,6,Geza Toldi,Hungría,2,2,1.0
+1934,6,Bernard Voorhoof,Bélgica,2,1,2.0
+1934,18,Andre Abegglen,Suiza,1,2,0.5
+1934,18,Ernesto Belis,Argentina,1,1,1.0
+1934,18,Josef Bican,Austria,1,4,0.25
+1934,18,Stefan Dobay,Rumania,1,1,1.0
+1934,18,Aldo Donelli,Estados Unidos,1,1,1.0
+1934,18,Gosta Dunker,Suecia,1,2,0.5
+1934,18,Alberto Galateo,Argentina,1,1,1.0
+1934,18,Enrique Guaita,Italia,1,4,0.25
+1934,18,Willy Jaeggi,Suiza,1,1,1.0
+1934,18,Stanislaus Kobierski,Alemania,1,3,0.33
+1934,18,Knut Kroon,Suecia,1,2,0.5
+1934,18,Isidro Langara,España,1,2,0.5
+1934,18,Leonidas,Brasil,1,1,1.0
+1934,18,Jean Nicolas,Francia,1,1,1.0
+1934,18,Rudolf Noack,Alemania,1,1,1.0
+1934,18,Luis Regueiro,España,1,2,0.5
+1934,18,Gyorgy Sarosi,Hungría,1,1,1.0
+1934,18,Toni Schall,Austria,1,2,0.5
+1934,18,Karl Sesta,Austria,1,4,0.25
+1934,18,Otto Siffling,Alemania,1,4,0.25
+1934,18,Matthias Sindelar,Austria,1,3,0.33
+1934,18,Kick Smit,Paises Bajos,1,1,1.0
+1934,18,Pal Teleki,Hungría,1,1,1.0
+1934,18,Leen Vente,Paises Bajos,1,1,1.0
+1934,18,Georges Verriest,Francia,1,1,1.0
+1934,18,Jeno Vincze,Hungría,1,1,1.0
+1934,18,Karl Zischek,Austria,1,4,0.25
+1938,1,Leonidas,Brasil,7,4,1.75
+1938,2,Silvio Piola,Italia,5,4,1.25
+1938,2,Gyorgy Sarosi,Hungría,5,4,1.25
+1938,2,Gyula Zsengeller,Hungría,5,4,1.25
+1938,5,Gino Colaussi,Italia,4,3,1.33
+1938,5,Ernest Wilimowski,Polonia,4,1,4.0
+1938,7,Andre Abegglen,Suiza,3,3,1.0
+1938,7,Tore Keller,Suecia,3,2,1.5
+1938,7,Arne Nyberg,Suecia,3,3,1.0
+1938,7,Peracio,Brasil,3,4,0.75
+1938,7,Romeu,Brasil,3,4,0.75
+1938,7,Hector Socorro,Cuba,3,3,1.0
+1938,7,Gustav Wetterstrom,Suecia,3,2,1.5
+1938,14,Stefan Dobay,Rumania,2,2,1.0
+1938,14,Oldrich Nejedly,Checoslovaquia,2,2,1.0
+1938,14,Jean Nicolas,Francia,2,2,1.0
+1938,17,Harry Andersson,Suecia,1,3,0.33
+1938,17,Iuliu Baratky,Rumania,1,2,0.5
+1938,17,Fredy Bickel,Suiza,1,3,0.33
+1938,17,Silviu Bindea,Rumania,1,1,1.0
+1938,17,Arne Brustad,Noruega,1,1,1.0
+1938,17,Tomas Fernandez,Cuba,1,3,0.33
+1938,17,Pietro Ferraris,Italia,1,1,1.0
+1938,17,Josef Gauchel,Alemania,1,1,1.0
+1938,17,Wilhelm Hahnemann,Alemania,1,2,0.5
+1938,17,Oscar Heisserer,Francia,1,2,0.5
+1938,17,Henri Isemborghs,Bélgica,1,1,1.0
+1938,17,Sven Jonasson,Suecia,1,3,0.33
+1938,17,Vilmos Kohut,Hungría,1,2,0.5
+1938,17,Vlastimil Kopecky,Checoslovaquia,1,3,0.33
+1938,17,Josef Kostalek,Checoslovaquia,1,3,0.33
+1938,17,Jose Magrina,Cuba,1,2,0.5
+1938,17,Giuseppe Meazza,Italia,1,4,0.25
+1938,17,Roberto,Brasil,1,2,0.5
+1938,17,Ferenc Sas,Hungría,1,4,0.25
+1938,17,Fryedryk Szerfke,Polonia,1,1,1.0
+1938,17,Pal Titkos,Hungría,1,2,0.5
+1938,17,Geza Toldi,Hungría,1,2,0.5
+1938,17,Emile Veinante,Francia,1,2,0.5
+1938,17,Eugen Walachek,Suiza,1,3,0.33
+1938,17,Josef Zeman,Checoslovaquia,1,1,1.0
+1950,1,Ademir,Brasil,9,6,1.5
+1950,2,Oscar Miguez,Uruguay,5,4,1.25
+1950,3,Estanislao Basora,España,4,6,0.67
+1950,3,Chico,Brasil,4,4,1.0
+1950,3,Alcides Ghiggia,Uruguay,4,4,1.0
+1950,3,Zarra,España,4,6,0.67
+1950,7,Karl-Erik Palmer,Suecia,3,5,0.6
+1950,7,Juan Schiaffino,Uruguay,3,4,0.75
+1950,7,Stig Sundqvist,Suecia,3,5,0.6
+1950,10,Sune Andersson,Suecia,2,5,0.4
+1950,10,Baltazar,Brasil,2,2,1.0
+1950,10,Zeljko Cajkovski,Yugoslavia,2,3,0.67
+1950,10,Riccardo Carapellese,Italia,2,2,1.0
+1950,10,Atilio Cremaschi,Chile,2,3,0.67
+1950,10,Jackie Fatton,Suiza,2,3,0.67
+1950,10,Silvestre Igoa,España,2,5,0.4
+1950,10,Jair,Brasil,2,5,0.4
+1950,10,Hans Jeppsson,Suecia,2,4,0.5
+1950,10,Kosta Tomasevic,Yugoslavia,2,3,0.67
+1950,10,Zizinho,Brasil,2,4,0.5
+1950,21,Alfredo Ii,Brasil,1,1,1.0
+1950,21,Kiki Antenen,Suiza,1,2,0.5
+1950,21,Rene Bader,Suiza,1,3,0.33
+1950,21,Stjepan Bobek,Yugoslavia,1,3,0.33
+1950,21,Horacio Casarin,México,1,3,0.33
+1950,21,Friaca,Brasil,1,4,0.25
+1950,21,Joe Gaetjens,Estados Unidos,1,3,0.33
+1950,21,Atilio Lopez,Paraguay,1,2,0.5
+1950,21,Cesar Lopez Fretes,Paraguay,1,2,0.5
+1950,21,Joe Maca,Estados Unidos,1,3,0.33
+1950,21,Maneca,Brasil,1,4,0.25
+1950,21,Wilf Mannion,Inglaterra,1,2,0.5
+1950,21,Bror Mellberg,Suecia,1,2,0.5
+1950,21,Rajko Mitic,Yugoslavia,1,3,0.33
+1950,21,Stan Mortensen,Inglaterra,1,3,0.33
+1950,21,Ermes Muccinelli,Italia,1,2,0.5
+1950,21,Tihomir Ognjanov,Yugoslavia,1,1,1.0
+1950,21,Hector Ortiz,México,1,3,0.33
+1950,21,Egisto Pandolfini,Italia,1,1,1.0
+1950,21,Gino Pariani,Estados Unidos,1,3,0.33
+1950,21,Julio Perez,Uruguay,1,4,0.25
+1950,21,Andres Prieto,Chile,1,2,0.5
+1950,21,Fernando Riera,Chile,1,1,1.0
+1950,21,Jorge Robledo,Chile,1,3,0.33
+1950,21,Obdulio Varela,Uruguay,1,4,0.25
+1950,21,Ernesto Vidal,Uruguay,1,3,0.33
+1950,21,Frank Wallace,Estados Unidos,1,3,0.33
+1954,1,Sandor Kocsis,Hungría,11,5,2.2
+1954,2,Sepp Huegi,Suiza,6,3,2.0
+1954,2,Max Morlock,Alemania Occidental,6,5,1.2
+1954,2,Erich Probst,Austria,6,5,1.2
+1954,5,Robert Ballaman,Suiza,4,4,1.0
+1954,5,Carlos Borges,Uruguay,4,5,0.8
+1954,5,Nandor Hidegkuti,Hungría,4,4,1.0
+1954,5,Ferenc Puskas,Hungría,4,3,1.33
+1954,5,Helmut Rahn,Alemania Occidental,4,4,1.0
+1954,5,Hans Schaefer,Alemania Occidental,4,5,0.8
+1954,5,Ottmar Walter,Alemania Occidental,4,5,0.8
+1954,12,Leopold Anoul,Bélgica,3,2,1.5
+1954,12,Sargun Burhan,Turquía,3,2,1.5
+1954,12,Zoltan Czibor,Hungría,3,5,0.6
+1954,12,Juan Hohberg,Uruguay,3,2,1.5
+1954,12,Nat Lofthouse,Inglaterra,3,2,1.5
+1954,12,Oscar Miguez,Uruguay,3,3,1.0
+1954,12,Ernst Stojaspal,Austria,3,4,0.75
+1954,12,Mamat Suat,Turquía,3,2,1.5
+1954,12,Theodor Wagner,Austria,3,4,0.75
+1954,12,Fritz Walter,Alemania Occidental,3,6,0.5
+1954,22,Julio Abbadie,Uruguay,2,4,0.5
+1954,22,Ivor Broadis,Inglaterra,2,3,0.67
+1954,22,Didi,Brasil,2,3,0.67
+1954,22,Julinho,Brasil,2,3,0.67
+1954,22,Robert Koerner,Austria,2,5,0.4
+1954,22,Lefter Kucukandonyadis,Turquía,2,3,0.67
+1954,22,Mihaly Lantos,Hungría,2,5,0.4
+1954,22,Ernst Ocwirk,Austria,2,5,0.4
+1954,22,Peter Palotas,Hungría,2,2,1.0
+1954,22,Pinga,Brasil,2,2,1.0
+1954,22,Juan Schiaffino,Uruguay,2,5,0.4
+1954,33,Javier Ambrois,Uruguay,1,4,0.25
+1954,33,Tomas Balcazar,México,1,2,0.5
+1954,33,Baltazar,Brasil,1,2,0.5
+1954,33,Giampiero Boniperti,Italia,1,1,1.0
+1954,33,Rik Coppens,Bélgica,1,2,0.5
+1954,33,Djalma Santos,Brasil,1,3,0.33
+1954,33,Mustafa Erton,Turquía,1,3,0.33
+1954,33,Jackie Fatton,Suiza,1,4,0.25
+1954,33,Tom Finney,Inglaterra,1,3,0.33
+1954,33,Amleto Frignani,Italia,1,2,0.5
+1954,33,Carlo Galli,Italia,1,2,0.5
+1954,33,Richard Herrmann,Alemania Occidental,1,1,1.0
+1954,33,Erol Keskin,Turquía,1,3,0.33
+1954,33,Berni Klodt,Alemania Occidental,1,2,0.5
+1954,33,Raymond Kopa,Francia,1,2,0.5
+1954,33,Jose Lamadrid,México,1,2,0.5
+1954,33,Benito Lorenzi,Italia,1,3,0.33
+1954,33,Milos Milutinovic,Yugoslavia,1,3,0.33
+1954,33,Jimmy Mullen,Inglaterra,1,1,1.0
+1954,33,Fulvio Nesti,Italia,1,3,0.33
+1954,33,Egisto Pandolfini,Italia,1,3,0.33
+1954,33,Alfred Pfaff,Alemania Occidental,1,1,1.0
+1954,33,Jozsef Toth,Hungría,1,2,0.5
+1954,33,Obdulio Varela,Uruguay,1,3,0.33
+1954,33,Jean Vincent,Francia,1,2,0.5
+1954,33,Dennis Wilshaw,Inglaterra,1,2,0.5
+1954,33,Branko Zebec,Yugoslavia,1,3,0.33
+1958,1,Just Fontaine,Francia,13,6,2.17
+1958,2,Pelé,Brasil,6,4,1.5
+1958,2,Helmut Rahn,Alemania Occidental,6,6,1.0
+1958,4,Peter Mcparland,Irlanda del Norte,5,5,1.0
+1958,4,Vava,Brasil,5,4,1.25
+1958,6,Kurt Hamrin,Suecia,4,5,0.8
+1958,6,Agne Simonsson,Suecia,4,5,0.8
+1958,6,Lajos Tichy,Hungría,4,4,1.0
+1958,6,Zdenek Zikan,Checoslovaquia,4,3,1.33
+1958,10,Omar Oreste Corbatta,Argentina,3,3,1.0
+1958,10,Raymond Kopa,Francia,3,6,0.5
+1958,10,Roger Piantoni,Francia,3,5,0.6
+1958,10,Hans Schaefer,Alemania Occidental,3,6,0.5
+1958,10,Toza Veselinovic,Yugoslavia,3,4,0.75
+1958,15,Juan Aguero,Paraguay,2,3,0.67
+1958,15,Ivor Allchurch,Gales,2,5,0.4
+1958,15,Jose Altafini,Brasil,2,3,0.67
+1958,15,Florencio Amarilla,Paraguay,2,3,0.67
+1958,15,Milan Dvorak,Checoslovaquia,2,4,0.5
+1958,15,Vaclav Hovorka,Checoslovaquia,2,3,0.67
+1958,15,Anatoli Ilyin,URSS,2,5,0.4
+1958,15,Derek Kevan,Inglaterra,2,4,0.5
+1958,15,Nils Liedholm,Suecia,2,5,0.4
+1958,15,Jose Parodi,Paraguay,2,3,0.67
+1958,15,Aleksandar Petakovic,Yugoslavia,2,4,0.5
+1958,15,Jorge Romero,Paraguay,2,3,0.67
+1958,15,Uwe Seeler,Alemania Occidental,2,5,0.4
+1958,15,Maryan Wisnieski,Francia,2,6,0.33
+1958,29,Ludovico Avio,Argentina,1,2,0.5
+1958,29,Sammy Baird,Escocia,1,1,1.0
+1958,29,Jaime Belmonte,México,1,2,0.5
+1958,29,Jozsef Bencsis,Hungría,1,2,0.5
+1958,29,Jozsef Bozsik,Hungría,1,3,0.33
+1958,29,John Charles,Gales,1,4,0.25
+1958,29,Hans Ciesclarczyk,Alemania Occidental,1,2,0.5
+1958,29,Bobby Collins,Escocia,1,3,0.33
+1958,29,Wilbur Cush,Irlanda del Norte,1,5,0.2
+1958,29,Didi,Brasil,1,6,0.17
+1958,29,Yvon Douis,Francia,1,1,1.0
+1958,29,Jiri Feureisl,Checoslovaquia,1,3,0.33
+1958,29,Tom Finney,Inglaterra,1,1,1.0
+1958,29,Gunnar Gren,Suecia,1,5,0.2
+1958,29,John Haynes,Inglaterra,1,4,0.25
+1958,29,Aleksandr Ivanov,URSS,1,4,0.25
+1958,29,Valentin Ivanov,URSS,1,5,0.2
+1958,29,Alfred Koerner,Austria,1,3,0.33
+1958,29,Karl Koller,Austria,1,3,0.33
+1958,29,Terry Medwin,Gales,1,4,0.25
+1958,29,Norberto Menendez,Argentina,1,3,0.33
+1958,29,Jackie Mudie,Escocia,1,3,0.33
+1958,29,Jimmy Murray,Escocia,1,2,0.5
+1958,29,Nilton Santos,Brasil,1,6,0.17
+1958,29,Radivoje Ognjanovic,Yugoslavia,1,2,0.5
+1958,29,Zdravko Rajkov,Yugoslavia,1,4,0.25
+1958,29,Cayetano Re,Paraguay,1,3,0.33
+1958,29,Karoly Sandor,Hungría,1,3,0.33
+1958,29,Nikita Simonyan,URSS,1,5,0.2
+1958,29,Lennart Skoglund,Suecia,1,6,0.17
+1958,29,Jean Vincent,Francia,1,6,0.17
+1958,29,Zagallo,Brasil,1,6,0.17
+1962,1,Florian Albert,Hungría,4,3,1.33
+1962,1,Garrincha,Brasil,4,6,0.67
+1962,1,Valentin Ivanov,URSS,4,4,1.0
+1962,1,Drazen Jerkovic,Yugoslavia,4,6,0.67
+1962,1,Leonel Sanchez,Chile,4,6,0.67
+1962,1,Vava,Brasil,4,6,0.67
+1962,7,Amarildo,Brasil,3,4,0.75
+1962,7,Milan Galic,Yugoslavia,3,6,0.5
+1962,7,Adolf Scherer,Checoslovaquia,3,6,0.5
+1962,7,Lajos Tichy,Hungría,3,4,0.75
+1962,11,Giacomo Bulgarelli,Italia,2,1,2.0
+1962,11,Igor Chislenko,URSS,2,3,0.67
+1962,11,Ron Flowers,Inglaterra,2,4,0.5
+1962,11,Viktor Ponedelnik,URSS,2,4,0.5
+1962,11,Jaime Ramirez,Chile,2,6,0.33
+1962,11,Eladio Rojas,Chile,2,6,0.33
+1962,11,Jose Sasia,Uruguay,2,3,0.67
+1962,11,Uwe Seeler,Alemania Occidental,2,4,0.5
+1962,11,Jorge Toro,Chile,2,5,0.4
+1962,20,German Aceros,Colombia,1,3,0.33
+1962,20,Adelardo,España,1,1,1.0
+1962,20,Albert Bruells,Alemania Occidental,1,4,0.25
+1962,20,Angel Cabrera,Uruguay,1,2,0.5
+1962,20,Bobby Charlton,Inglaterra,1,4,0.25
+1962,20,Marcos Coll,Colombia,1,3,0.33
+1962,20,Luis Cubilla,Uruguay,1,2,0.5
+1962,20,Alfredo Del Aguila,México,1,3,0.33
+1962,20,Isidoro Diaz,México,1,3,0.33
+1962,20,Hector Facundo,Argentina,1,2,0.5
+1962,20,Jimmy Greaves,Inglaterra,1,4,0.25
+1962,20,Hector Hernandez,México,1,3,0.33
+1962,20,Gerry Hitchens,Inglaterra,1,2,0.5
+1962,20,Josef Kadraba,Checoslovaquia,1,3,0.33
+1962,20,Marino Klinger,Colombia,1,3,0.33
+1962,20,Aleksei Mamykin,URSS,1,2,0.5
+1962,20,Vaclav Masek,Checoslovaquia,1,1,1.0
+1962,20,Josef Masopust,Checoslovaquia,1,6,0.17
+1962,20,Vojislav Melic,Yugoslavia,1,2,0.5
+1962,20,Bruno Mora,Italia,1,2,0.5
+1962,20,Joaquin Peiro,España,1,2,0.5
+1962,20,Pelé,Brasil,1,2,0.5
+1962,20,Antonio Rada,Colombia,1,2,0.5
+1962,20,Petar Radakovic,Yugoslavia,1,5,0.2
+1962,20,Jose Sanfilippo,Argentina,1,2,0.5
+1962,20,Heinz Schneiter,Suiza,1,3,0.33
+1962,20,Josip Skoblar,Yugoslavia,1,5,0.2
+1962,20,Georgi Sokolov,Bulgaria,1,2,0.5
+1962,20,Erno Solymosi,Hungría,1,4,0.25
+1962,20,Josef Stibranyi,Checoslovaquia,1,3,0.33
+1962,20,Horst Szymaniak,Alemania Occidental,1,4,0.25
+1962,20,Rolf Wuethrich,Suiza,1,3,0.33
+1962,20,Zagallo,Brasil,1,6,0.17
+1962,20,Zito,Brasil,1,6,0.17
+1962,20,Francisco Zuluaga,Colombia,1,1,1.0
+1966,1,Eusebio,Portugal,9,6,1.5
+1966,2,Helmut Haller,Alemania Occidental,6,5,1.2
+1966,3,Franz Beckenbauer,Alemania Occidental,4,6,0.67
+1966,3,Ferenc Bene,Hungría,4,4,1.0
+1966,3,Geoff Hurst,Inglaterra,4,3,1.33
+1966,3,Valeriy Porkuyan,URSS,4,3,1.33
+1966,7,Luis Artime,Argentina,3,4,0.75
+1966,7,Bobby Charlton,Inglaterra,3,6,0.5
+1966,7,Roger Hunt,Inglaterra,3,6,0.5
+1966,7,Jose Augusto,Portugal,3,6,0.5
+1966,7,Eduard Malofeyev,URSS,3,5,0.6
+1966,7,Jose Torres,Portugal,3,6,0.5
+1966,13,Igor Chislenko,URSS,2,4,0.5
+1966,13,Ruben Marcos,Chile,2,3,0.67
+1966,13,Kalman Meszoly,Hungría,2,4,0.5
+1966,13,Seung Zin Pak,Corea del Norte,2,4,0.5
+1966,13,Uwe Seeler,Alemania Occidental,2,6,0.33
+1966,18,Amancio,España,1,2,0.5
+1966,18,Georgi Asparukhov,Bulgaria,1,3,0.33
+1966,18,Anatoli Banishevski,URSS,1,5,0.2
+1966,18,Paolo Barison,Italia,1,2,0.5
+1966,18,Enrique Borja,México,1,3,0.33
+1966,18,Julio Cortes,Uruguay,1,4,0.25
+1966,18,Hector De Bourgoing,Francia,1,1,1.0
+1966,18,Lothar Emmerich,Alemania Occidental,1,4,0.25
+1966,18,Janos Farkas,Hungría,1,4,0.25
+1966,18,Jose Maria Fuste,España,1,1,1.0
+1966,18,Garrincha,Brasil,1,2,0.5
+1966,18,Gerard Hausser,Francia,1,3,0.33
+1966,18,Sigi Held,Alemania Occidental,1,6,0.17
+1966,18,Dong Woon Li,Corea del Norte,1,2,0.5
+1966,18,Sandro Mazzola,Italia,1,3,0.33
+1966,18,Ermindo Onega,Argentina,1,4,0.25
+1966,18,Doo Ik Pak,Corea del Norte,1,4,0.25
+1966,18,Pelé,Brasil,1,2,0.5
+1966,18,Martin Peters,Inglaterra,1,5,0.2
+1966,18,Pirri,España,1,2,0.5
+1966,18,Rene Quentin,Suiza,1,2,0.5
+1966,18,Rildo,Brasil,1,1,1.0
+1966,18,Pedro Rocha,Uruguay,1,4,0.25
+1966,18,Manuel Sanchis,España,1,3,0.33
+1966,18,Simoes,Portugal,1,6,0.17
+1966,18,Tostao,Brasil,1,1,1.0
+1966,18,Wolfgang Weber,Alemania Occidental,1,6,0.17
+1966,18,Seung Kook Yang,Corea del Norte,1,2,0.5
+1970,1,Gerd Mueller,Alemania Occidental,10,6,1.67
+1970,2,Jairzinho,Brasil,7,6,1.17
+1970,3,Teofilo Cubillas,Perú,5,4,1.25
+1970,4,Anatoly Bishovets,URSS,4,4,1.0
+1970,4,Pelé,Brasil,4,6,0.67
+1970,6,Gigi Riva,Italia,3,6,0.5
+1970,6,Rivelino,Brasil,3,5,0.6
+1970,6,Uwe Seeler,Alemania Occidental,3,6,0.5
+1970,9,Roberto Boninsegna,Italia,2,6,0.33
+1970,9,Florea Dumitrache,Rumania,2,3,0.67
+1970,9,Alberto Gallardo,Perú,2,4,0.5
+1970,9,Raoul Lambert,Bélgica,2,2,1.0
+1970,9,Ladislav Petras,Checoslovaquia,2,3,0.67
+1970,9,Gianni Rivera,Italia,2,4,0.5
+1970,9,Tostao,Brasil,2,6,0.33
+1970,9,Javier Valdivia,México,2,4,0.5
+1970,9,Wilfried Van Moer,Bélgica,2,3,0.67
+1970,18,Kakhi Asatiani,URSS,1,4,0.25
+1970,18,Juan Ignacio Basaguren,México,1,2,0.5
+1970,18,Franz Beckenbauer,Alemania Occidental,1,5,0.2
+1970,18,Hristo Bonev,Bulgaria,1,3,0.33
+1970,18,Tarcisio Burgnich,Italia,1,6,0.17
+1970,18,Carlos Alberto,Brasil,1,6,0.17
+1970,18,Roberto Challe,Perú,1,4,0.25
+1970,18,Hector Chumpitaz,Perú,1,4,0.25
+1970,18,Allan Clarke,Inglaterra,1,1,1.0
+1970,18,Clodoaldo,Brasil,1,6,0.17
+1970,18,Luis Cubilla,Uruguay,1,5,0.2
+1970,18,Emerich Dembrovschi,Rumania,1,3,0.33
+1970,18,Dinko Dermendzhiev,Bulgaria,1,2,0.5
+1970,18,Angelo Domenghini,Italia,1,6,0.17
+1970,18,Victor Esparrago,Uruguay,1,6,0.17
+1970,18,Javier Fragoso,México,1,4,0.25
+1970,18,Gerson,Brasil,1,4,0.25
+1970,18,Mahjoub Ghazouani,Marruecos,1,3,0.33
+1970,18,Jose Gonzalez,México,1,3,0.33
+1970,18,Ove Grahn,Suecia,1,2,0.5
+1970,18,Geoff Hurst,Inglaterra,1,3,0.33
+1970,18,Houmane Jarir,Marruecos,1,2,0.5
+1970,18,Vitali Khmelnitski,URSS,1,4,0.25
+1970,18,Todor Kolev,Bulgaria,1,2,0.5
+1970,18,Stan Libuda,Alemania Occidental,1,5,0.2
+1970,18,Ildo Maneiro,Uruguay,1,6,0.17
+1970,18,Juan Mujica,Uruguay,1,6,0.17
+1970,18,Alan Mullery,Inglaterra,1,4,0.25
+1970,18,Alexandru Neagu,Rumania,1,3,0.33
+1970,18,Asparukh Nikodimov,Bulgaria,1,2,0.5
+1970,18,Wolfgang Overath,Alemania Occidental,1,6,0.17
+1970,18,Gustavo Pena,México,1,4,0.25
+1970,18,Martin Peters,Inglaterra,1,4,0.25
+1970,18,Karl-Heinz Schnellinger,Alemania Occidental,1,5,0.2
+1970,18,Mordechai Spiegler,Israel,1,3,0.33
+1970,18,Tom Turesson,Suecia,1,2,0.5
+1970,18,Dobromir Zhechev,Bulgaria,1,2,0.5
+1974,1,Grzegorz Lato,Polonia,7,7,1.0
+1974,2,Johan Neeskens,Paises Bajos,5,7,0.71
+1974,2,Andrzej Szarmach,Polonia,5,6,0.83
+1974,4,Ralf Edstrom,Suecia,4,6,0.67
+1974,4,Gerd Mueller,Alemania Occidental,4,7,0.57
+1974,4,Johnny Rep,Paises Bajos,4,7,0.57
+1974,7,Dusan Bajevic,Yugoslavia,3,3,1.0
+1974,7,Paul Breitner,Alemania Occidental,3,7,0.43
+1974,7,Johan Cruyff,Paises Bajos,3,7,0.43
+1974,7,Kazimierz Deyna,Polonia,3,7,0.43
+1974,7,Rene Houseman,Argentina,3,6,0.5
+1974,7,Rivelino,Brasil,3,7,0.43
+1974,13,Jairzinho,Brasil,2,7,0.29
+1974,13,Joe Jordan,Escocia,2,3,0.67
+1974,13,Stanislav Karasi,Yugoslavia,2,4,0.5
+1974,13,Wolfgang Overath,Alemania Occidental,2,7,0.29
+1974,13,Roland Sandberg,Suecia,2,6,0.33
+1974,13,Emmanuel Sanon,Haití,2,3,0.67
+1974,13,Joachim Streich,Alemania Oriental,2,4,0.5
+1974,13,Ivica Surjak,Yugoslavia,2,6,0.33
+1974,13,Hector Yazalde,Argentina,2,3,0.67
+1974,22,Sergio Ahumada,Chile,1,3,0.33
+1974,22,Pietro Anastasi,Italia,1,3,0.33
+1974,22,Ruben Ayala,Argentina,1,6,0.17
+1974,22,Carlos Babington,Argentina,1,5,0.2
+1974,22,Romeo Benetti,Italia,1,3,0.33
+1974,22,Vladislav Bogicevic,Yugoslavia,1,5,0.2
+1974,22,Hristo Bonev,Bulgaria,1,3,0.33
+1974,22,Rainer Bonhof,Alemania Occidental,1,4,0.25
+1974,22,Miguel Brindisi,Argentina,1,4,0.25
+1974,22,Fabio Capello,Italia,1,3,0.33
+1974,22,Bernd Cullmann,Alemania Occidental,1,3,0.33
+1974,22,Theo De Jong,Paises Bajos,1,4,0.25
+1974,22,Dragan Dzajic,Yugoslavia,1,5,0.2
+1974,22,Jerzy Gorgon,Polonia,1,7,0.14
+1974,22,Juergen Grabowski,Alemania Occidental,1,6,0.17
+1974,22,Ramon Heredia,Argentina,1,6,0.17
+1974,22,Uli Hoeness,Alemania Occidental,1,7,0.14
+1974,22,Martin Hoffmann,Alemania Oriental,1,6,0.17
+1974,22,Josip Katalinski,Yugoslavia,1,6,0.17
+1974,22,Ruud Krol,Paises Bajos,1,7,0.14
+1974,22,Peter Lorimer,Escocia,1,3,0.33
+1974,22,Branko Oblak,Yugoslavia,1,5,0.2
+1974,22,Ricardo Pavoni,Uruguay,1,3,0.33
+1974,22,Ilija Petkovic,Yugoslavia,1,5,0.2
+1974,22,Rob Rensenbrink,Paises Bajos,1,6,0.17
+1974,22,Gianni Rivera,Italia,1,2,0.5
+1974,22,Juergen Sparwasser,Alemania Oriental,1,6,0.17
+1974,22,Conny Torstensson,Suecia,1,5,0.2
+1974,22,Valdomiro,Brasil,1,6,0.17
+1978,1,Mario Kempes,Argentina,6,7,0.86
+1978,2,Teofilo Cubillas,Perú,5,6,0.83
+1978,2,Rob Rensenbrink,Paises Bajos,5,7,0.71
+1978,4,Hans Krankl,Austria,4,6,0.67
+1978,4,Leopoldo Luque,Argentina,4,5,0.8
+1978,6,Dirceu,Brasil,3,7,0.43
+1978,6,Johnny Rep,Paises Bajos,3,7,0.43
+1978,6,Roberto Dinamite,Brasil,3,5,0.6
+1978,6,Paolo Rossi,Italia,3,7,0.43
+1978,6,Karl-Heinz Rummenigge,Alemania Occidental,3,5,0.6
+1978,11,Daniel Bertoni,Argentina,2,6,0.33
+1978,11,Roberto Bettega,Italia,2,7,0.29
+1978,11,Zbigniew Boniek,Polonia,2,6,0.33
+1978,11,Ernie Brandts,Paises Bajos,2,4,0.5
+1978,11,Heinz Flohe,Alemania Occidental,2,4,0.5
+1978,11,Archie Gemmill,Escocia,2,3,0.67
+1978,11,Arie Haan,Paises Bajos,2,6,0.33
+1978,11,Grzegorz Lato,Polonia,2,6,0.33
+1978,11,Dieter Mueller,Alemania Occidental,2,4,0.5
+1978,11,Nelinho,Brasil,2,4,0.5
+1978,21,Ruediger Abramczik,Alemania Occidental,1,3,0.33
+1978,21,Juan Manuel Asensi,España,1,3,0.33
+1978,21,Romeo Benetti,Italia,1,6,0.17
+1978,21,Marc Berdoll,Francia,1,2,0.5
+1978,21,Franco Causio,Italia,1,7,0.14
+1978,21,Karoly Csapo,Hungría,1,3,0.33
+1978,21,Cesar Cueto,Perú,1,6,0.17
+1978,21,Kenny Dalglish,Escocia,1,3,0.33
+1978,21,Iraj Danayfar,Irán,1,2,0.5
+1978,21,Dani,España,1,1,1.0
+1978,21,Kazimierz Deyna,Polonia,1,6,0.17
+1978,21,Mokhtar Douieb,Túnez,1,3,0.33
+1978,21,Nejib Ghommidh,Túnez,1,3,0.33
+1978,21,Bernd Hoelzenbein,Alemania Occidental,1,3,0.33
+1978,21,Rene Houseman,Argentina,1,6,0.17
+1978,21,Joe Jordan,Escocia,1,3,0.33
+1978,21,Ali Kaabi,Túnez,1,3,0.33
+1978,21,Bernard Lacombe,Francia,1,2,0.5
+1978,21,Christian Lopez,Francia,1,2,0.5
+1978,21,Hansi Mueller,Alemania Occidental,1,4,0.25
+1978,21,Dick Nanninga,Paises Bajos,1,4,0.25
+1978,21,Erich Obermayer,Austria,1,6,0.17
+1978,21,Daniel Passarella,Argentina,1,7,0.14
+1978,21,Michel Platini,Francia,1,3,0.33
+1978,21,Victor Rangel,México,1,3,0.33
+1978,21,Reinaldo,Brasil,1,3,0.33
+1978,21,Dominique Rocheteau,Francia,1,2,0.5
+1978,21,Hassan Rowshan,Irán,1,3,0.33
+1978,21,Walter Schachner,Austria,1,3,0.33
+1978,21,Thomas Sjoberg,Suecia,1,3,0.33
+1978,21,Andrzej Szarmach,Polonia,1,5,0.2
+1978,21,Alberto Tarantini,Argentina,1,7,0.14
+1978,21,Andras Toth,Hungría,1,1,1.0
+1978,21,Rene Van De Kerkhof,Paises Bajos,1,7,0.14
+1978,21,Willy Van De Kerkhof,Paises Bajos,1,7,0.14
+1978,21,Arturo Vasquez,México,1,3,0.33
+1978,21,Jose Velasquez,Perú,1,5,0.2
+1978,21,Renato Zaccarelli,Italia,1,5,0.2
+1978,21,Zico,Brasil,1,6,0.17
+1978,21,Sandor Zombori,Hungría,1,3,0.33
+1982,1,Paolo Rossi,Italia,6,7,0.86
+1982,2,Karl-Heinz Rummenigge,Alemania Occidental,5,7,0.71
+1982,3,Zbigniew Boniek,Polonia,4,6,0.67
+1982,3,Zico,Brasil,4,5,0.8
+1982,5,Gerry Armstrong,Irlanda del Norte,3,5,0.6
+1982,5,Falcao,Brasil,3,5,0.6
+1982,5,Alain Giresse,Francia,3,6,0.5
+1982,5,Laszlo Kiss,Hungría,3,3,1.0
+1982,9,Salah Assad,Argelia,2,3,0.67
+1982,9,Daniel Bertoni,Argentina,2,5,0.4
+1982,9,Eder,Brasil,2,5,0.4
+1982,9,Laszlo Fazekas,Hungría,2,3,0.67
+1982,9,Klaus Fischer,Alemania Occidental,2,6,0.33
+1982,9,Trevor Francis,Inglaterra,2,5,0.4
+1982,9,Bernard Genghini,Francia,2,5,0.4
+1982,9,Billy Hamilton,Irlanda del Norte,2,5,0.4
+1982,9,Pierre Littbarski,Alemania Occidental,2,7,0.29
+1982,9,Diego Maradona,Argentina,2,5,0.4
+1982,9,Tibor Nyilasi,Hungría,2,3,0.67
+1982,9,Antonin Panenka,Checoslovaquia,2,2,1.0
+1982,9,Daniel Passarella,Argentina,2,5,0.4
+1982,9,Michel Platini,Francia,2,5,0.4
+1982,9,Gabor Poloskei,Hungría,2,3,0.67
+1982,9,Bryan Robson,Inglaterra,2,4,0.5
+1982,9,Dominique Rocheteau,Francia,2,4,0.5
+1982,9,Walter Schachner,Austria,2,5,0.4
+1982,9,Serginho,Brasil,2,5,0.4
+1982,9,Didier Six,Francia,2,7,0.29
+1982,9,Socrates,Brasil,2,5,0.4
+1982,9,Marco Tardelli,Italia,2,7,0.29
+1982,9,John Wark,Escocia,2,3,0.67
+1982,32,Abdulaziz Al Balushi,Kuwait,1,3,0.33
+1982,32,Faisal Al Dakhil,Kuwait,1,3,0.33
+1982,32,Alessandro Altobelli,Italia,1,3,0.33
+1982,32,Steve Archibald,Escocia,1,3,0.33
+1982,32,Osvaldo Ardiles,Argentina,1,5,0.2
+1982,32,Andrei Bal,URSS,1,4,0.25
+1982,32,Sergei Baltacha,URSS,1,5,0.2
+1982,32,Lakhdar Belloumi,Argelia,1,2,0.5
+1982,32,Tedj Bensaoula,Argelia,1,3,0.33
+1982,32,Oleg Blokhin,URSS,1,5,0.2
+1982,32,Maxime Bossis,Francia,1,6,0.17
+1982,32,Paul Breitner,Alemania Occidental,1,7,0.14
+1982,32,Andrzej Buncol,Polonia,1,7,0.14
+1982,32,Antonio Cabrini,Italia,1,7,0.14
+1982,32,Aleksandr Chivadze,URSS,1,5,0.2
+1982,32,Wlodzimierz Ciolek,Polonia,1,4,0.25
+1982,32,Ludo Coeck,Bélgica,1,5,0.2
+1982,32,Bruno Conti,Italia,1,7,0.14
+1982,32,Alain Couriol,Francia,1,3,0.33
+1982,32,Alex Czerniatynski,Bélgica,1,5,0.2
+1982,32,Kenny Dalglish,Escocia,1,2,0.5
+1982,32,Ramon Diaz,Argentina,1,4,0.25
+1982,32,Ruben Diaz,Perú,1,3,0.33
+1982,32,Yuri Gavrilov,URSS,1,5,0.2
+1982,32,Rene Girard,Francia,1,5,0.2
+1982,32,Francesco Graziani,Italia,1,7,0.14
+1982,32,Ivan Gudelj,Yugoslavia,1,3,0.33
+1982,32,Reinhold Hintermaier,Austria,1,5,0.2
+1982,32,Horst Hrubesch,Alemania Occidental,1,5,0.2
+1982,32,Joe Jordan,Escocia,1,1,1.0
+1982,32,Juanito,España,1,4,0.25
+1982,32,Junior,Brasil,1,5,0.2
+1982,32,Hans Krankl,Austria,1,4,0.25
+1982,32,Janusz Kupcewicz,Polonia,1,5,0.2
+1982,32,Guillermo La Rosa,Perú,1,3,0.33
+1982,32,Eduardo Laing,Honduras,1,2,0.5
+1982,32,Grzegorz Lato,Polonia,1,7,0.14
+1982,32,Juan Letelier,Chile,1,2,0.5
+1982,32,Lopez Ufarte,España,1,4,0.25
+1982,32,Rabah Madjer,Argelia,1,3,0.33
+1982,32,Stefan Majewski,Polonia,1,7,0.14
+1982,32,Paul Mariner,Inglaterra,1,5,0.2
+1982,32,Gregoire Mbida,Camerún,1,3,0.33
+1982,32,Gustavo Moscoso,Chile,1,3,0.33
+1982,32,David Narey,Escocia,1,3,0.33
+1982,32,Miguel Neira,Chile,1,3,0.33
+1982,32,Khoren Oganesian,URSS,1,3,0.33
+1982,32,Oscar,Brasil,1,5,0.2
+1982,32,Vladimir Petrovic,Yugoslavia,1,3,0.33
+1982,32,Bruno Pezzey,Austria,1,5,0.2
+1982,32,Luis Ramirez,El Salvador,1,3,0.33
+1982,32,Uwe Reinders,Alemania Occidental,1,3,0.33
+1982,32,John Robertson,Escocia,1,3,0.33
+1982,32,Enrique Saura,España,1,4,0.25
+1982,32,Ramaz Shengelia,URSS,1,5,0.2
+1982,32,Wlodimierz Smolarek,Polonia,1,6,0.17
+1982,32,Gerard Soler,Francia,1,6,0.17
+1982,32,Graeme Souness,Escocia,1,3,0.33
+1982,32,Steve Sumner,Nueva Zelanda,1,3,0.33
+1982,32,Andrzej Szarmach,Polonia,1,2,0.5
+1982,32,Lazar Szentes,Hungría,1,2,0.5
+1982,32,Jozsef Toth,Hungría,1,2,0.5
+1982,32,Marius Tresor,Francia,1,7,0.14
+1982,32,Erwin Vandenbergh,Bélgica,1,5,0.2
+1982,32,Jozsef Varga,Hungría,1,2,0.5
+1982,32,Steve Wooddin,Nueva Zelanda,1,3,0.33
+1982,32,Jesus Zamora,España,1,4,0.25
+1982,32,Hector Zelaya,Honduras,1,3,0.33
+1986,1,Gary Lineker,Inglaterra,6,5,1.2
+1986,2,Emilio Butragueño,España,5,5,1.0
+1986,2,Careca,Brasil,5,5,1.0
+1986,2,Diego Maradona,Argentina,5,7,0.71
+1986,5,Alessandro Altobelli,Italia,4,4,1.0
+1986,5,Igor Belanov,URSS,4,4,1.0
+1986,5,Preben Elkjaer Larsen,Dinamarca,4,4,1.0
+1986,5,Jorge Valdano,Argentina,4,7,0.57
+1986,9,Jan Ceulemans,Bélgica,3,7,0.43
+1986,9,Nico Claesen,Bélgica,3,7,0.43
+1986,9,Jesper Olsen,Dinamarca,3,4,0.75
+1986,9,Rudi Voeller,Alemania Occidental,3,6,0.5
+1986,13,Klaus Allofs,Alemania Occidental,2,7,0.29
+1986,13,Jorge Burruchaga,Argentina,2,7,0.29
+1986,13,Roberto Cabañas,Paraguay,2,4,0.5
+1986,13,Ramon Maria Caldere,España,2,4,0.5
+1986,13,Josimar,Brasil,2,3,0.67
+1986,13,Abdelrazzak Khairi,Marruecos,2,4,0.5
+1986,13,Jean-Pierre Papin,Francia,2,4,0.5
+1986,13,Michel Platini,Francia,2,6,0.33
+1986,13,Fernando Quirarte,México,2,5,0.4
+1986,13,Julio Cesar Romero,Paraguay,2,4,0.5
+1986,13,Enzo Scifo,Bélgica,2,7,0.29
+1986,13,Socrates,Brasil,2,5,0.4
+1986,13,Yannick Stopyra,Francia,2,6,0.33
+1986,26,Sergei Aleinikov,URSS,1,4,0.25
+1986,26,Antonio Alzamendi,Uruguay,1,3,0.33
+1986,26,Manuel Amoros,Francia,1,7,0.14
+1986,26,Peter Beardsley,Inglaterra,1,4,0.25
+1986,26,Oleg Blokhin,URSS,1,2,0.5
+1986,26,Andreas Brehme,Alemania Occidental,1,5,0.2
+1986,26,Jose Brown,Argentina,1,7,0.14
+1986,26,Carlos Manuel,Portugal,1,3,0.33
+1986,26,Soon Ho Choi,Corea del Sur,1,2,0.5
+1986,26,Colin Clarke,Irlanda del Norte,1,3,0.33
+1986,26,Stephane Demol,Bélgica,1,7,0.14
+1986,26,Lajos Detari,Hungría,1,3,0.33
+1986,26,Diamantino,Portugal,1,3,0.33
+1986,26,Edinho,Brasil,1,5,0.2
+1986,26,Eloy,España,1,3,0.33
+1986,26,John Eriksen,Dinamarca,1,2,0.5
+1986,26,Marton Esterhazy,Hungría,1,3,0.33
+1986,26,Luis Fernandez,Francia,1,6,0.17
+1986,26,Jean-Marc Ferreri,Francia,1,4,0.25
+1986,26,Luis Flores,México,1,3,0.33
+1986,26,Enzo Francescoli,Uruguay,1,4,0.25
+1986,26,Bernard Genghini,Francia,1,1,1.0
+1986,26,Plamen Getov,Bulgaria,1,4,0.25
+1986,26,Goikoetxea,España,1,4,0.25
+1986,26,Jung Moo Huh,Corea del Sur,1,3,0.33
+1986,26,Julio Salinas,España,1,5,0.2
+1986,26,Jong Boo Kim,Corea del Sur,1,2,0.5
+1986,26,Abdelkarim Krimau,Marruecos,1,4,0.25
+1986,26,Michael Laudrup,Dinamarca,1,4,0.25
+1986,26,Soren Lerby,Dinamarca,1,4,0.25
+1986,26,Lothar Matthaeus,Alemania Occidental,1,7,0.14
+1986,26,Manuel Negrete,México,1,5,0.2
+1986,26,Chang Sun Park,Corea del Sur,1,3,0.33
+1986,26,Pedro Pasculli,Argentina,1,2,0.5
+1986,26,Ahmed Radhi,Iraq,1,3,0.33
+1986,26,Vasili Rats,URSS,1,3,0.33
+1986,26,Dominique Rocheteau,Francia,1,4,0.25
+1986,26,Sergei Rodionov,URSS,1,4,0.25
+1986,26,Oscar Ruggeri,Argentina,1,7,0.14
+1986,26,Karl-Heinz Rummenigge,Alemania Occidental,1,7,0.14
+1986,26,Hugo Sánchez,México,1,4,0.25
+1986,26,Juan Antonio Senor,España,1,4,0.25
+1986,26,Raul Servin,México,1,5,0.2
+1986,26,Nasko Sirakov,Bulgaria,1,4,0.25
+1986,26,Wlodimierz Smolarek,Polonia,1,4,0.25
+1986,26,Gordon Strachan,Escocia,1,3,0.33
+1986,26,Jean Tigana,Francia,1,7,0.14
+1986,26,Erwin Vandenbergh,Bélgica,1,1,1.0
+1986,26,Frank Vercauteren,Bélgica,1,6,0.17
+1986,26,Daniel Veyt,Bélgica,1,5,0.2
+1986,26,Norman Whiteside,Irlanda del Norte,1,3,0.33
+1986,26,Pavel Yakovenko,URSS,1,3,0.33
+1986,26,Ivan Yaremchuk,URSS,1,3,0.33
+1986,26,Aleksandr Zavarov,URSS,1,4,0.25
+1986,26,Djamel Zidane,Argelia,1,3,0.33
+1990,1,Salvatore Schillaci,Italia,6,7,0.86
+1990,2,Tomas Skuhravy,Checoslovaquia,5,5,1.0
+1990,3,Gary Lineker,Inglaterra,4,7,0.57
+1990,3,Lothar Matthaeus,Alemania Occidental,4,7,0.57
+1990,3,Michel,España,4,4,1.0
+1990,3,Roger Milla,Camerún,4,5,0.8
+1990,7,Andreas Brehme,Alemania Occidental,3,6,0.5
+1990,7,Juergen Klinsmann,Alemania Occidental,3,7,0.43
+1990,7,David Platt,Inglaterra,3,6,0.5
+1990,7,Rudi Voeller,Alemania Occidental,3,6,0.5
+1990,11,Roberto Baggio,Italia,2,5,0.4
+1990,11,Gavril Balint,Rumania,2,4,0.5
+1990,11,Michal Bilek,Checoslovaquia,2,5,0.4
+1990,11,Claudio Caniggia,Argentina,2,6,0.33
+1990,11,Careca,Brasil,2,4,0.5
+1990,11,Davor Jozic,Yugoslavia,2,5,0.4
+1990,11,Marius Lacatus,Rumania,2,3,0.67
+1990,11,Muller,Brasil,2,4,0.5
+1990,11,Darko Pancev,Yugoslavia,2,3,0.67
+1990,11,Bernardo Redin,Colombia,2,3,0.67
+1990,11,Dragan Stojkovic,Yugoslavia,2,5,0.4
+1990,22,Magdy Abedelghani,Egipto,1,3,0.33
+1990,22,Uwe Bein,Alemania Occidental,1,4,0.25
+1990,22,Pablo Bengoechea,Uruguay,1,1,1.0
+1990,22,Tomas Brolin,Suecia,1,3,0.33
+1990,22,Jorge Burruchaga,Argentina,1,7,0.14
+1990,22,Paul Caligiuri,Estados Unidos,1,3,0.33
+1990,22,Juan Cayasso,Costa Rica,1,4,0.25
+1990,22,Jan Ceulemans,Bélgica,1,4,0.25
+1990,22,Leo Clijsters,Bélgica,1,3,0.33
+1990,22,Marc De Grijse,Bélgica,1,4,0.25
+1990,22,Michel De Wolf,Bélgica,1,4,0.25
+1990,22,Igor Dobrovolskyi,URSS,1,3,0.33
+1990,22,Eugene Ekeke,Camerún,1,1,1.0
+1990,22,Johnny Ekstrom,Suecia,1,2,0.5
+1990,22,Roger Flores,Costa Rica,1,4,0.25
+1990,22,Daniel Fonseca,Uruguay,1,2,0.5
+1990,22,Giuseppe Giannini,Italia,1,7,0.14
+1990,22,Ronald Gonzalez,Costa Rica,1,4,0.25
+1990,22,Alberto Gorriz,España,1,4,0.25
+1990,22,Ruud Gullit,Paises Bajos,1,4,0.25
+1990,22,Ivan Hasek,Checoslovaquia,1,5,0.2
+1990,22,Bo Kwan Hwang,Corea del Sur,1,2,0.5
+1990,22,Mo Johnston,Escocia,1,3,0.33
+1990,22,Julio Salinas,España,1,3,0.33
+1990,22,Ali Thani Jumaa,Emiratos Arabes,1,3,0.33
+1990,22,Khalid Ismail,Emiratos Arabes,1,2,0.5
+1990,22,Wim Kieft,Paises Bajos,1,4,0.25
+1990,22,Ronald Koeman,Paises Bajos,1,4,0.25
+1990,22,Lubos Kubik,Checoslovaquia,1,4,0.25
+1990,22,Emmanuel Kunde,Camerún,1,4,0.25
+1990,22,Pierre Littbarski,Alemania Occidental,1,6,0.17
+1990,22,Milan Luhovy,Checoslovaquia,1,1,1.0
+1990,22,Stuart Mccall,Escocia,1,3,0.33
+1990,22,Hernan Medford,Costa Rica,1,3,0.33
+1990,22,Pedro Monzon,Argentina,1,4,0.25
+1990,22,Bruce Murray,Estados Unidos,1,3,0.33
+1990,22,Andeas Ogris,Austria,1,3,0.33
+1990,22,Francois Omam-Biyik,Camerún,1,5,0.2
+1990,22,Robert Prosinecki,Yugoslavia,1,3,0.33
+1990,22,Oleg Protasov,URSS,1,3,0.33
+1990,22,Niall Quinn,Irlanda,1,4,0.25
+1990,22,Freddy Rincon,Colombia,1,4,0.25
+1990,22,Gerhard Rodax,Austria,1,2,0.5
+1990,22,Enzo Scifo,Bélgica,1,4,0.25
+1990,22,Aldo Serena,Italia,1,3,0.33
+1990,22,Kevin Sheedy,Irlanda,1,5,0.2
+1990,22,Glenn Stromberg,Suecia,1,3,0.33
+1990,22,Safet Susic,Yugoslavia,1,5,0.2
+1990,22,Pedro Troglio,Argentina,1,6,0.17
+1990,22,Carlos Valderrama,Colombia,1,4,0.25
+1990,22,Patrick Vervoort,Bélgica,1,3,0.33
+1990,22,Mark Wright,Inglaterra,1,6,0.17
+1990,22,Aleksandr Zavarov,URSS,1,3,0.33
+1990,22,Andrei Zygmantovich,URSS,1,2,0.5
+1994,1,Oleg Salenko,Rusia,6,3,2.0
+1994,1,Hristo Stoichkov,Bulgaria,6,7,0.86
+1994,3,Kennet Andersson,Suecia,5,7,0.71
+1994,3,Roberto Baggio,Italia,5,7,0.71
+1994,3,Juergen Klinsmann,Alemania,5,5,1.0
+1994,3,Romario,Brasil,5,7,0.71
+1994,7,Gabriel Batistuta,Argentina,4,4,1.0
+1994,7,Martin Dahlin,Suecia,4,5,0.8
+1994,7,Florin Raducioiu,Rumania,4,4,1.0
+1994,10,Bebeto,Brasil,3,7,0.43
+1994,10,Dennis Bergkamp,Paises Bajos,3,5,0.6
+1994,10,Tomas Brolin,Suecia,3,7,0.43
+1994,10,Jose Luis Caminero,España,3,4,0.75
+1994,10,Gheorghe Hagi,Rumania,3,5,0.6
+1994,15,Philippe Albert,Bélgica,2,3,0.67
+1994,15,Fuad Amin,Arabia Saudita,2,3,0.67
+1994,15,Daniel Amokachi,Nigeria,2,4,0.5
+1994,15,Emmanuel Amunike,Nigeria,2,4,0.5
+1994,15,Dino Baggio,Italia,2,7,0.29
+1994,15,Claudio Caniggia,Argentina,2,3,0.67
+1994,15,Ilie Dumitrescu,Rumania,2,5,0.4
+1994,15,Luis Garcia,México,2,4,0.5
+1994,15,Goikoetxea,España,2,5,0.4
+1994,15,Myung Bo Hong,Corea del Sur,2,3,0.67
+1994,15,Wim Jonk,Paises Bajos,2,5,0.4
+1994,15,Adrian Knup,Suiza,2,3,0.67
+1994,15,Iordan Letchkov,Bulgaria,2,7,0.29
+1994,15,Adolfo Valencia,Colombia,2,3,0.67
+1994,15,Rudi Voeller,Alemania,2,3,0.67
+1994,30,Fahad Al Ghesheyan,Arabia Saudita,1,2,0.5
+1994,30,Sami Al Jaber,Arabia Saudita,1,2,0.5
+1994,30,Said Al Owayran,Arabia Saudita,1,4,0.25
+1994,30,John Aldridge,Irlanda,1,3,0.33
+1994,30,Abel Balbo,Argentina,1,4,0.25
+1994,30,Txiki Beguiristain,España,1,1,1.0
+1994,30,Marcelino Bernal,México,1,4,0.25
+1994,30,Daniel Borimirov,Bulgaria,1,4,0.25
+1994,30,Branco,Brasil,1,3,0.33
+1994,30,Georges Bregy,Suiza,1,4,0.25
+1994,30,Mohammed Chaouch,Marruecos,1,2,0.5
+1994,30,Stephane Chapuisat,Suiza,1,4,0.25
+1994,30,Marc De Grijse,Bélgica,1,3,0.33
+1994,30,David Embe,Camerún,1,3,0.33
+1994,30,Alberto Garcia Aspe,México,1,3,0.33
+1994,30,Herman Gaviria,Colombia,1,2,0.5
+1994,30,Finidi George,Nigeria,1,4,0.25
+1994,30,Georges Grun,Bélgica,1,3,0.33
+1994,30,Pep Guardiola,España,1,2,0.5
+1994,30,Fernando Hierro,España,1,5,0.2
+1994,30,Ray Houghton,Irlanda,1,4,0.25
+1994,30,Sun Hong Hwang,Corea del Sur,1,3,0.33
+1994,30,Julio Salinas,España,1,4,0.25
+1994,30,Henrik Larsson,Suecia,1,5,0.2
+1994,30,Roger Ljung,Suecia,1,6,0.17
+1994,30,John Lozano,Colombia,1,1,1.0
+1994,30,Luis Enrique,España,1,4,0.25
+1994,30,Diego Maradona,Argentina,1,2,0.5
+1994,30,Marcio Santos,Brasil,1,7,0.14
+1994,30,Daniele Massaro,Italia,1,6,0.17
+1994,30,Lothar Matthaeus,Alemania,1,5,0.2
+1994,30,Hakan Mild,Suecia,1,5,0.2
+1994,30,Roger Milla,Camerún,1,2,0.5
+1994,30,Hassan Nader,Marruecos,1,1,1.0
+1994,30,Francois Omam-Biyik,Camerún,1,3,0.33
+1994,30,Dan Petrescu,Rumania,1,5,0.2
+1994,30,Dmitri Radchenko,Rusia,1,3,0.33
+1994,30,Rai,Brasil,1,5,0.2
+1994,30,Kjetil Rekdal,Noruega,1,3,0.33
+1994,30,Karlheinz Riedle,Alemania,1,2,0.5
+1994,30,Bryan Roy,Paises Bajos,1,5,0.2
+1994,30,Erwin Sanchez,Bolivia,1,3,0.33
+1994,30,Jung Won Seo,Corea del Sur,1,3,0.33
+1994,30,Samson Siasia,Nigeria,1,3,0.33
+1994,30,Nasko Sirakov,Bulgaria,1,7,0.14
+1994,30,Earnie Stewart,Estados Unidos,1,4,0.25
+1994,30,Alain Sutter,Suiza,1,3,0.33
+1994,30,Gaston Taument,Paises Bajos,1,3,0.33
+1994,30,Aron Winter,Paises Bajos,1,3,0.33
+1994,30,Eric Wynalda,Estados Unidos,1,4,0.25
+1994,30,Rasheed Yekini,Nigeria,1,4,0.25
+1998,1,Davor Suker,Croacia,6,7,0.86
+1998,2,Gabriel Batistuta,Argentina,5,5,1.0
+1998,2,Christian Vieri,Italia,5,5,1.0
+1998,4,Luis Hernandez,México,4,4,1.0
+1998,4,Ronaldo,Brasil,4,7,0.57
+1998,4,Marcelo Salas,Chile,4,4,1.0
+1998,7,Bebeto,Brasil,3,7,0.43
+1998,7,Dennis Bergkamp,Paises Bajos,3,7,0.43
+1998,7,Oliver Bierhoff,Alemania,3,5,0.6
+1998,7,Cesar Sampaio,Brasil,3,6,0.5
+1998,7,Thierry Henry,Francia,3,6,0.5
+1998,7,Juergen Klinsmann,Alemania,3,5,0.6
+1998,7,Rivaldo,Brasil,3,7,0.43
+1998,14,Roberto Baggio,Italia,2,4,0.5
+1998,14,Shaun Bartlett,Sudáfrica,2,3,0.67
+1998,14,Salaheddine Bassir,Marruecos,2,3,0.67
+1998,14,Phillip Cocu,Paises Bajos,2,7,0.29
+1998,14,Ronald De Boer,Paises Bajos,2,6,0.33
+1998,14,Abdeljalil Hadda,Marruecos,2,3,0.67
+1998,14,Fernando Hierro,España,2,3,0.67
+1998,14,Patrick Kluivert,Paises Bajos,2,4,0.5
+1998,14,Slobodan Komljenovic,RF de Yugoslavia,2,3,0.67
+1998,14,Brian Laudrup,Dinamarca,2,5,0.4
+1998,14,Viorel Moldovan,Rumania,2,4,0.5
+1998,14,Fernando Morientes,España,2,2,1.0
+1998,14,Ariel Ortega,Argentina,2,5,0.4
+1998,14,Michael Owen,Inglaterra,2,4,0.5
+1998,14,Ricardo Pelaez Linares,México,2,3,0.67
+1998,14,Emmanuel Petit,Francia,2,6,0.33
+1998,14,Robert Prosinecki,Croacia,2,5,0.4
+1998,14,Alan Shearer,Inglaterra,2,4,0.5
+1998,14,Lilian Thuram,Francia,2,6,0.33
+1998,14,Theodore Whitmore,Jamaica,2,3,0.67
+1998,14,Marc Wilmots,Bélgica,2,3,0.67
+1998,14,Zinedine Zidane,Francia,2,5,0.4
+1998,36,Mutiu Adepoju,Nigeria,1,3,0.33
+1998,36,Sami Al Jaber,Arabia Saudita,1,3,0.33
+1998,36,Youssef Al Tunayan,Arabia Saudita,1,2,0.5
+1998,36,Darren Anderton,Inglaterra,1,4,0.25
+1998,36,Celso Ayala,Paraguay,1,4,0.25
+1998,36,Tijani Babangida,Nigeria,1,4,0.25
+1998,36,David Beckham,Inglaterra,1,3,0.33
+1998,36,Miguel Benitez,Paraguay,1,4,0.25
+1998,36,Laurent Blanc,Francia,1,5,0.2
+1998,36,Cuauhtemoc Blanco,México,1,4,0.25
+1998,36,Craig Burley,Escocia,1,3,0.33
+1998,36,Jose Cardozo,Paraguay,1,3,0.33
+1998,36,John Collins,Escocia,1,3,0.33
+1998,36,Edgar Davids,Paises Bajos,1,6,0.17
+1998,36,Luigi Di Biagio,Italia,1,5,0.2
+1998,36,Youri Djorkaeff,Francia,1,7,0.14
+1998,36,Christophe Dugarry,Francia,1,3,0.33
+1998,36,Robert Earle,Jamaica,1,3,0.33
+1998,36,Dan Eggen,Noruega,1,4,0.25
+1998,36,Mustafa El Hadji,Marruecos,1,3,0.33
+1998,36,Hamid Estili,Irán,1,3,0.33
+1998,36,Tore Andre Flo,Noruega,1,4,0.25
+1998,36,Havard Flo,Noruega,1,4,0.25
+1998,36,Alberto Garcia Aspe,México,1,4,0.25
+1998,36,Seok Ju Ha,Corea del Sur,1,2,0.5
+1998,36,Thomas Helveg,Dinamarca,1,5,0.2
+1998,36,Andreas Herzog,Austria,1,3,0.33
+1998,36,Victor Ikpeba,Nigeria,1,3,0.33
+1998,36,Adrian Ilie,Rumania,1,4,0.25
+1998,36,Robert Jarni,Croacia,1,7,0.14
+1998,36,Martin Jorgensen,Dinamarca,1,5,0.2
+1998,36,Kiko,España,1,3,0.33
+1998,36,Emil Kostadinov,Bulgaria,1,3,0.33
+1998,36,Michael Laudrup,Dinamarca,1,5,0.2
+1998,36,Bixente Lizarazu,Francia,1,6,0.17
+1998,36,Claudio Lopez,Argentina,1,5,0.2
+1998,36,Luis Enrique,España,1,3,0.33
+1998,36,Mehdi Mahdavikia,Irán,1,3,0.33
+1998,36,Patrick Mboma,Camerún,1,3,0.33
+1998,36,Brian Mcbride,Estados Unidos,1,2,0.5
+1998,36,Benni Mccarthy,Sudáfrica,1,3,0.33
+1998,36,Sinisa Mihajlovic,RF de Yugoslavia,1,4,0.25
+1998,36,Predrag Mijatovic,RF de Yugoslavia,1,4,0.25
+1998,36,Andreas Moeller,Alemania,1,3,0.33
+1998,36,Peter Moller,Dinamarca,1,2,0.5
+1998,36,Masashi Nakayama,Japón,1,3,0.33
+1998,36,Allan Nielsen,Dinamarca,1,5,0.2
+1998,36,Luc Nilis,Bélgica,1,3,0.33
+1998,36,Pierre Njanka,Camerún,1,3,0.33
+1998,36,Sunday Oliseh,Nigeria,1,4,0.25
+1998,36,Wilson Oruma,Nigeria,1,1,1.0
+1998,36,Marc Overmars,Paises Bajos,1,6,0.17
+1998,36,Dan Petrescu,Rumania,1,4,0.25
+1998,36,Mauricio Pineda,Argentina,1,3,0.33
+1998,36,Toni Polster,Austria,1,3,0.33
+1998,36,Leider Preciado,Colombia,1,3,0.33
+1998,36,Raul,España,1,3,0.33
+1998,36,Kjetil Rekdal,Noruega,1,4,0.25
+1998,36,Marc Rieper,Dinamarca,1,5,0.2
+1998,36,Ebbe Sand,Dinamarca,1,5,0.2
+1998,36,Paul Scholes,Inglaterra,1,4,0.25
+1998,36,Jose Sierra,Chile,1,4,0.25
+1998,36,Skander Souayah,Túnez,1,3,0.33
+1998,36,Mario Stanic,Croacia,1,7,0.14
+1998,36,Dragan Stojkovic,RF de Yugoslavia,1,4,0.25
+1998,36,David Trezeguet,Francia,1,6,0.17
+1998,36,Pierre Van Hooijdonk,Paises Bajos,1,3,0.33
+1998,36,Ivica Vastic,Austria,1,3,0.33
+1998,36,Goran Vlaovic,Croacia,1,7,0.14
+1998,36,Sang Chul Yoo,Corea del Sur,1,3,0.33
+1998,36,Javier Zanetti,Argentina,1,5,0.2
+1998,36,Boudewijn Zenden,Paises Bajos,1,4,0.25
+2002,1,Ronaldo,Brasil,8,7,1.14
+2002,2,Miroslav Klose,Alemania,5,7,0.71
+2002,2,Rivaldo,Brasil,5,7,0.71
+2002,4,Jon Dahl Tomasson,Dinamarca,4,4,1.0
+2002,4,Christian Vieri,Italia,4,4,1.0
+2002,6,Michael Ballack,Alemania,3,6,0.5
+2002,6,Bouba Diop,Senegal,3,5,0.6
+2002,6,Robbie Keane,Irlanda,3,4,0.75
+2002,6,Henrik Larsson,Suecia,3,4,0.75
+2002,6,Ilhan Mansiz,Turquía,3,7,0.43
+2002,6,Fernando Morientes,España,3,5,0.6
+2002,6,Pauleta,Portugal,3,3,1.0
+2002,6,Raul,España,3,4,0.75
+2002,6,Marc Wilmots,Bélgica,3,4,0.75
+2002,15,Jung Hwan Ahn,Corea del Sur,2,7,0.29
+2002,15,Jared Borgetti,México,2,4,0.5
+2002,15,Henri Camara,Senegal,2,4,0.5
+2002,15,Nelson Cuevas,Paraguay,2,2,1.0
+2002,15,Umit Davala,Turquía,2,7,0.29
+2002,15,Landon Donovan,Estados Unidos,2,5,0.4
+2002,15,Ronald Gomez,Costa Rica,2,3,0.67
+2002,15,Fernando Hierro,España,2,4,0.5
+2002,15,Junichi Inamoto,Japón,2,4,0.5
+2002,15,Brian Mcbride,Estados Unidos,2,5,0.4
+2002,15,Michael Owen,Inglaterra,2,5,0.4
+2002,15,Ronaldinho,Brasil,2,5,0.4
+2002,15,Hasan Sas,Turquía,2,6,0.33
+2002,28,Milenko Acimovic,Eslovenia,1,3,0.33
+2002,28,Julius Aghahowa,Nigeria,1,3,0.33
+2002,28,Niclas Alexandersson,Suecia,1,4,0.25
+2002,28,Francisco Arce,Paraguay,1,4,0.25
+2002,28,Gabriel Batistuta,Argentina,1,3,0.33
+2002,28,David Beckham,Inglaterra,1,5,0.2
+2002,28,Emre Belozoglu,Turquía,1,6,0.17
+2002,28,Vladimir Beschastnykh,Rusia,1,3,0.33
+2002,28,Beto,Portugal,1,3,0.33
+2002,28,Oliver Bierhoff,Alemania,1,5,0.2
+2002,28,Cuauhtemoc Blanco,México,1,4,0.25
+2002,28,Marco Bode,Alemania,1,6,0.17
+2002,28,Raouf Bouzaiene,Túnez,1,3,0.33
+2002,28,Gary Breen,Irlanda,1,4,0.25
+2002,28,Sol Campbell,Inglaterra,1,5,0.2
+2002,28,Jorge Campos,Paraguay,1,4,0.25
+2002,28,Sebastijan Cimirotic,Eslovenia,1,3,0.33
+2002,28,Hernan Crespo,Argentina,1,3,0.33
+2002,28,Alessandro Del Piero,Italia,1,3,0.33
+2002,28,Agustin Delgado,Ecuador,1,3,0.33
+2002,28,Salif Diao,Senegal,1,3,0.33
+2002,28,Damien Duff,Irlanda,1,4,0.25
+2002,28,Edmilson,Brasil,1,6,0.17
+2002,28,Samuel Eto'o,Camerún,1,3,0.33
+2002,28,Khalilou Fadiga,Senegal,1,4,0.25
+2002,28,Rio Ferdinand,Inglaterra,1,5,0.2
+2002,28,Diego Forlan,Uruguay,1,1,1.0
+2002,28,Quinton Fortune,Sudáfrica,1,3,0.33
+2002,28,Emile Heskey,Inglaterra,1,5,0.2
+2002,28,Matt Holland,Irlanda,1,4,0.25
+2002,28,Sun Hong Hwang,Corea del Sur,1,5,0.2
+2002,28,Carsten Jancker,Alemania,1,3,0.33
+2002,28,Junior,Brasil,1,1,1.0
+2002,28,Valeri Karpin,Rusia,1,3,0.33
+2002,28,Bulent Korkmaz,Turquía,1,6,0.17
+2002,28,Pawel Kryszalowicz,Polonia,1,3,0.33
+2002,28,Eul Yong Lee,Corea del Sur,1,4,0.25
+2002,28,Thomas Linke,Alemania,1,7,0.14
+2002,28,Clint Mathis,Estados Unidos,1,3,0.33
+2002,28,Patrick Mboma,Camerún,1,3,0.33
+2002,28,Benni Mccarthy,Sudáfrica,1,3,0.33
+2002,28,Edison Mendez,Ecuador,1,3,0.33
+2002,28,Gaizka Mendieta,España,1,3,0.33
+2002,28,Teboho Mokoena,Sudáfrica,1,3,0.33
+2002,28,Richard Morales,Uruguay,1,2,0.5
+2002,28,Hiroaki Morishima,Japón,1,3,0.33
+2002,28,Hidetoshi Nakata,Japón,1,4,0.25
+2002,28,Oliver Neuville,Alemania,1,6,0.17
+2002,28,Siyabonga Nomvethe,Sudáfrica,1,2,0.5
+2002,28,John O'Brien,Estados Unidos,1,5,0.2
+2002,28,Ivica Olic,Croacia,1,2,0.5
+2002,28,Emmanuel Olisadebe,Polonia,1,3,0.33
+2002,28,Ji Sung Park,Corea del Sur,1,7,0.14
+2002,28,Winston Parks,Costa Rica,1,2,0.5
+2002,28,Lucas Radebe,Sudáfrica,1,3,0.33
+2002,28,Milan Rapaic,Croacia,1,3,0.33
+2002,28,Alvaro Recoba,Uruguay,1,3,0.33
+2002,28,Roberto Carlos,Brasil,1,6,0.17
+2002,28,Dario Rodriguez,Uruguay,1,3,0.33
+2002,28,Dennis Rommedahl,Dinamarca,1,4,0.25
+2002,28,Rui Costa,Portugal,1,2,0.5
+2002,28,Roque Santa Cruz,Paraguay,1,4,0.25
+2002,28,Bernd Schneider,Alemania,1,7,0.14
+2002,28,Ki Hyeon Seol,Corea del Sur,1,7,0.14
+2002,28,Wesley Sonck,Bélgica,1,4,0.25
+2002,28,Chong Gug Song,Corea del Sur,1,7,0.14
+2002,28,Hakan Sukur,Turquía,1,7,0.14
+2002,28,Takayuki Suzuki,Japón,1,4,0.25
+2002,28,Anders Svensson,Suecia,1,4,0.25
+2002,28,Dmitri Sychev,Rusia,1,3,0.33
+2002,28,Egor Titov,Rusia,1,3,0.33
+2002,28,Gerardo Torrado,México,1,4,0.25
+2002,28,Juan Carlos Valeron,España,1,4,0.25
+2002,28,Peter Van Der Heyden,Bélgica,1,2,0.5
+2002,28,Johan Walem,Bélgica,1,3,0.33
+2002,28,Paulo Wanchope,Costa Rica,1,3,0.33
+2002,28,Mauricio Wright,Costa Rica,1,3,0.33
+2002,28,Sang Chul Yoo,Corea del Sur,1,7,0.14
+2002,28,Marcin Zewlakow,Polonia,1,3,0.33
+2006,1,Miroslav Klose,Alemania,5,7,0.71
+2006,2,Hernan Crespo,Argentina,3,4,0.75
+2006,2,Thierry Henry,Francia,3,7,0.43
+2006,2,Lukas Podolski,Alemania,3,7,0.43
+2006,2,Maxi Rodriguez,Argentina,3,5,0.6
+2006,2,Ronaldo,Brasil,3,5,0.6
+2006,2,Fernando Torres,España,3,4,0.75
+2006,2,David Villa,España,3,4,0.75
+2006,2,Zinedine Zidane,Francia,3,6,0.5
+2006,10,Adriano,Brasil,2,4,0.5
+2006,10,Bartosz Bosacki,Polonia,2,2,1.0
+2006,10,Omar Bravo,México,2,3,0.67
+2006,10,Tim Cahill,Australia,2,4,0.5
+2006,10,Agustin Delgado,Ecuador,2,3,0.67
+2006,10,Aruna Dindane,Costa de Marfil,2,3,0.67
+2006,10,Alexander Frei,Suiza,2,4,0.5
+2006,10,Steven Gerrard,Inglaterra,2,5,0.4
+2006,10,Maniche,Portugal,2,7,0.29
+2006,10,Marco Materazzi,Italia,2,4,0.5
+2006,10,Tomas Rosicky,República Checa,2,3,0.67
+2006,10,Bastian Schweinsteiger,Alemania,2,7,0.29
+2006,10,Andriy Shevchenko,Ucrania,2,5,0.4
+2006,10,Carlos Tenorio,Ecuador,2,3,0.67
+2006,10,Luca Toni,Italia,2,6,0.33
+2006,10,Patrick Vieira,Francia,2,7,0.29
+2006,10,Paulo Wanchope,Costa Rica,2,3,0.67
+2006,27,Jung Hwan Ahn,Corea del Sur,1,3,0.33
+2006,27,Sami Al Jaber,Arabia Saudita,1,3,0.33
+2006,27,Yasser Al Kahtani,Arabia Saudita,1,2,0.5
+2006,27,Marcus Allback,Suecia,1,4,0.25
+2006,27,John Aloisi,Australia,1,4,0.25
+2006,27,Xabi Alonso,España,1,3,0.33
+2006,27,Stephen Appiah,Ghana,1,4,0.25
+2006,27,Roberto Ayala,Argentina,1,5,0.2
+2006,27,Sohrab Bakhtiarizadeh,Irán,1,2,0.5
+2006,27,Tranquillo Barnetta,Suiza,1,4,0.25
+2006,27,David Beckham,Inglaterra,1,5,0.2
+2006,27,Esteban Cambiasso,Argentina,1,5,0.2
+2006,27,Joe Cole,Inglaterra,1,5,0.2
+2006,27,Peter Crouch,Inglaterra,1,4,0.25
+2006,27,Nelson Cuevas,Paraguay,1,2,0.5
+2006,27,Deco,Portugal,1,4,0.25
+2006,27,Alessandro Del Piero,Italia,1,5,0.2
+2006,27,Clint Dempsey,Estados Unidos,1,2,0.5
+2006,27,Haminu Draman,Ghana,1,2,0.5
+2006,27,Didier Drogba,Costa de Marfil,1,2,0.5
+2006,27,Flavio,Angola,1,1,1.0
+2006,27,Jose Fonseca,México,1,4,0.25
+2006,27,Fred,Brasil,1,1,1.0
+2006,27,Torsten Frings,Alemania,1,6,0.17
+2006,27,Alberto Gilardino,Italia,1,5,0.2
+2006,27,Gilberto Melo,Brasil,1,1,1.0
+2006,27,Yahya Golmohammadi,Irán,1,2,0.5
+2006,27,Ronald Gomez,Costa Rica,1,3,0.33
+2006,27,Fabio Grosso,Italia,1,6,0.17
+2006,27,Asamoah Gyan,Ghana,1,3,0.33
+2006,27,Vincenzo Iaquinta,Italia,1,5,0.2
+2006,27,Sasa Ilic,Serbia y Montenegro,1,1,1.0
+2006,27,Filippo Inzaghi,Italia,1,1,1.0
+2006,27,Radhi Jaidi,Túnez,1,3,0.33
+2006,27,Zied Jaziri,Túnez,1,3,0.33
+2006,27,Juanito,España,1,1,1.0
+2006,27,Juninho Pernambucano,Brasil,1,3,0.33
+2006,27,Kaká,Brasil,1,5,0.2
+2006,27,Maksym Kalinichenko,Ucrania,1,4,0.25
+2006,27,Bonaventure Kalou,Costa de Marfil,1,2,0.5
+2006,27,Ivan Kaviedes,Ecuador,1,4,0.25
+2006,27,Harry Kewell,Australia,1,3,0.33
+2006,27,Jan Koller,República Checa,1,1,1.0
+2006,27,Bakary Kone,Costa de Marfil,1,3,0.33
+2006,27,Niko Kovac,Croacia,1,3,0.33
+2006,27,Philipp Lahm,Alemania,1,7,0.14
+2006,27,Henrik Larsson,Suecia,1,4,0.25
+2006,27,Chun Soo Lee,Corea del Sur,1,3,0.33
+2006,27,Fredrik Ljungberg,Suecia,1,4,0.25
+2006,27,Rafael Marquez,México,1,4,0.25
+2006,27,Lionel Messi,Argentina,1,3,0.33
+2006,27,Jaouhar Mnari,Túnez,1,3,0.33
+2006,27,Mohamed Kader,Togo,1,3,0.33
+2006,27,Craig Moore,Australia,1,4,0.25
+2006,27,Sulley Muntari,Ghana,1,3,0.33
+2006,27,Shunsuke Nakamura,Japón,1,3,0.33
+2006,27,Oliver Neuville,Alemania,1,7,0.14
+2006,27,Nuno Gomes,Portugal,1,2,0.5
+2006,27,Ji Sung Park,Corea del Sur,1,3,0.33
+2006,27,Pauleta,Portugal,1,6,0.17
+2006,27,Andrea Pirlo,Italia,1,7,0.14
+2006,27,Raul,España,1,4,0.25
+2006,27,Serhiy Rebrov,Ucrania,1,4,0.25
+2006,27,Franck Ribery,Francia,1,7,0.14
+2006,27,Arjen Robben,Paises Bajos,1,3,0.33
+2006,27,Cristiano Ronaldo,Portugal,1,6,0.17
+2006,27,Andriy Rusol,Ucrania,1,4,0.25
+2006,27,Javier Saviola,Argentina,1,3,0.33
+2006,27,Philippe Senderos,Suiza,1,3,0.33
+2006,27,Simao,Portugal,1,7,0.14
+2006,27,Darijo Srna,Croacia,1,3,0.33
+2006,27,Keiji Tamada,Japón,1,2,0.5
+2006,27,Carlos Tevez,Argentina,1,4,0.25
+2006,27,Francesco Totti,Italia,1,7,0.14
+2006,27,Ruud Van Nistelrooij,Paises Bajos,1,3,0.33
+2006,27,Robin Van Persie,Paises Bajos,1,4,0.25
+2006,27,Gianluca Zambrotta,Italia,1,6,0.17
+2006,27,Ze Roberto,Brasil,1,5,0.2
+2006,27,Nikola Zigic,Serbia y Montenegro,1,2,0.5
+2006,27,Zinha,México,1,4,0.25
+2010,1,Diego Forlan,Uruguay,5,7,0.71
+2010,1,Thomas Müller,Alemania,5,6,0.83
+2010,1,Wesley Sneijder,Paises Bajos,5,7,0.71
+2010,1,David Villa,España,5,7,0.71
+2010,5,Gonzalo Higuain,Argentina,4,4,1.0
+2010,5,Miroslav Klose,Alemania,4,5,0.8
+2010,5,Robert Vittek,Eslovaquia,4,4,1.0
+2010,8,Landon Donovan,Estados Unidos,3,4,0.75
+2010,8,Asamoah Gyan,Ghana,3,5,0.6
+2010,8,Luis Fabiano,Brasil,3,5,0.6
+2010,8,Luis Suarez,Uruguay,3,6,0.5
+2010,12,Elano,Brasil,2,2,1.0
+2010,12,Samuel Eto'o,Camerún,2,3,0.67
+2010,12,Javier Hernandez,México,2,4,0.5
+2010,12,Brett Holman,Australia,2,3,0.67
+2010,12,Keisuke Honda,Japón,2,4,0.5
+2010,12,Andrés Iniesta,España,2,6,0.33
+2010,12,Chung-yong Lee,Corea del Sur,2,4,0.5
+2010,12,Jung Soo Lee,Corea del Sur,2,4,0.5
+2010,12,Lukas Podolski,Alemania,2,6,0.33
+2010,12,Arjen Robben,Paises Bajos,2,5,0.4
+2010,12,Robinho,Brasil,2,4,0.5
+2010,12,Carlos Tevez,Argentina,2,4,0.5
+2010,12,Tiago,Portugal,2,4,0.5
+2010,12,Kalu Uche,Nigeria,2,3,0.67
+2010,26,Yakubu Aiyegbeni,Nigeria,1,3,0.33
+2010,26,Antolin Alcaraz,Paraguay,1,4,0.25
+2010,26,Hugo Almeida,Portugal,1,2,0.5
+2010,26,Jean Beausejour,Chile,1,4,0.25
+2010,26,Nicklas Bendtner,Dinamarca,1,3,0.33
+2010,26,Valter Birsa,Eslovenia,1,3,0.33
+2010,26,Cuauhtemoc Blanco,México,1,3,0.33
+2010,26,Kevin Prince Boateng,Ghana,1,5,0.2
+2010,26,Michael Bradley,Estados Unidos,1,4,0.25
+2010,26,Cacau,Alemania,1,4,0.25
+2010,26,Tim Cahill,Australia,1,2,0.5
+2010,26,Edinson Cavani,Uruguay,1,6,0.17
+2010,26,Daniele De Rossi,Italia,1,3,0.33
+2010,26,Jermain Defoe,Inglaterra,1,3,0.33
+2010,26,Martin Demichelis,Argentina,1,5,0.2
+2010,26,Clint Dempsey,Estados Unidos,1,4,0.25
+2010,26,Antonio Di Natale,Italia,1,3,0.33
+2010,26,Didier Drogba,Costa de Marfil,1,3,0.33
+2010,26,Yasuhito Endo,Japón,1,4,0.25
+2010,26,Gelson Fernandes,Suiza,1,3,0.33
+2010,26,Arne Friedrich,Alemania,1,7,0.14
+2010,26,Steven Gerrard,Inglaterra,1,4,0.25
+2010,26,Mark Gonzalez,Chile,1,4,0.25
+2010,26,Gabriel Heinze,Argentina,1,4,0.25
+2010,26,Klaas Jan Huntelaar,Paises Bajos,1,4,0.25
+2010,26,Vincenzo Iaquinta,Italia,1,3,0.33
+2010,26,Marcell Jansen,Alemania,1,4,0.25
+2010,26,Yun Nam Ji,Corea del Norte,1,3,0.33
+2010,26,Milan Jovanovic,Serbia,1,3,0.33
+2010,26,Juan,Brasil,1,5,0.2
+2010,26,Salomon Kalou,Costa de Marfil,1,3,0.33
+2010,26,Sami Khedira,Alemania,1,7,0.14
+2010,26,Bongani Khumalo,Sudáfrica,1,3,0.33
+2010,26,Kamil Kopunek,Eslovaquia,1,2,0.5
+2010,26,Robert Koren,Eslovenia,1,3,0.33
+2010,26,Dirk Kuyt,Paises Bajos,1,7,0.14
+2010,26,Liedson,Portugal,1,3,0.33
+2010,26,Zlatan Ljubijankic,Eslovenia,1,3,0.33
+2010,26,Maicon,Brasil,1,5,0.2
+2010,26,Florent Malouda,Francia,1,3,0.33
+2010,26,Rafael Marquez,México,1,4,0.25
+2010,26,Raul Meireles,Portugal,1,4,0.25
+2010,26,Rodrigo Millar,Chile,1,3,0.33
+2010,26,Katlego Mphela,Sudáfrica,1,3,0.33
+2010,26,Sulley Muntari,Ghana,1,4,0.25
+2010,26,Shinji Okazaki,Japón,1,4,0.25
+2010,26,Mesut Ozil,Alemania,1,7,0.14
+2010,26,Martin Palermo,Argentina,1,1,1.0
+2010,26,Marko Pantelic,Serbia,1,2,0.5
+2010,26,Ji Sung Park,Corea del Sur,1,4,0.25
+2010,26,Chu Young Park,Corea del Sur,1,4,0.25
+2010,26,Alvaro Pereira,Uruguay,1,5,0.2
+2010,26,Maximiliano Pereira,Uruguay,1,7,0.14
+2010,26,Carles Puyol,España,1,7,0.14
+2010,26,Fabio Quagliarella,Italia,1,1,1.0
+2010,26,Winston Reid,Nueva Zelanda,1,3,0.33
+2010,26,Cristian Riveros,Paraguay,1,5,0.2
+2010,26,Romaric,Costa de Marfil,1,3,0.33
+2010,26,Dennis Rommedahl,Dinamarca,1,3,0.33
+2010,26,Cristiano Ronaldo,Portugal,1,4,0.25
+2010,26,Dimitrios Salpingidis,Grecia,1,2,0.5
+2010,26,Simao,Portugal,1,4,0.25
+2010,26,Shane Smeltz,Nueva Zelanda,1,3,0.33
+2010,26,Jon Dahl Tomasson,Dinamarca,1,2,0.5
+2010,26,Vasileios Torosidis,Grecia,1,3,0.33
+2010,26,Yaya Toure,Costa de Marfil,1,3,0.33
+2010,26,Siphiwe Tshabalala,Sudáfrica,1,3,0.33
+2010,26,Matt Upson,Inglaterra,1,2,0.5
+2010,26,Giovanni Van Bronckhorst,Paises Bajos,1,7,0.14
+2010,26,Robin Van Persie,Paises Bajos,1,7,0.14
+2010,26,Enrique Vera,Paraguay,1,5,0.2
+2014,1,James Rodríguez,Colombia,6,5,1.2
+2014,2,Thomas Müller,Alemania,5,7,0.71
+2014,3,Lionel Messi,Argentina,4,7,0.57
+2014,3,Neymar Jr.,Brasil,4,5,0.8
+2014,3,Robin Van Persie,Paises Bajos,4,6,0.67
+2014,6,Karim Benzema,Francia,3,5,0.6
+2014,6,Arjen Robben,Paises Bajos,3,7,0.43
+2014,6,André Schürrle,Alemania,3,6,0.5
+2014,6,Xherdan Shaqiri,Suiza,3,4,0.75
+2014,6,Enner Valencia,Ecuador,3,3,1.0
+2014,11,Andre Ayew,Ghana,2,3,0.67
+2014,11,Wilfried Bony,Costa de Marfil,2,3,0.67
+2014,11,Tim Cahill,Australia,2,2,1.0
+2014,11,David Luiz,Brasil,2,7,0.29
+2014,11,Clint Dempsey,Estados Unidos,2,4,0.5
+2014,11,Memphis Depay,Paises Bajos,2,4,0.5
+2014,11,Abdelmoumene Djabou,Argelia,2,3,0.67
+2014,11,Gervinho,Costa de Marfil,2,3,0.67
+2014,11,Mario Götze,Alemania,2,6,0.33
+2014,11,Asamoah Gyan,Ghana,2,3,0.67
+2014,11,Mats Hummels,Alemania,2,6,0.33
+2014,11,Miroslav Klose,Alemania,2,5,0.4
+2014,11,Toni Kroos,Alemania,2,7,0.29
+2014,11,Mario Mandzukic,Croacia,2,2,1.0
+2014,11,Jackson Martinez,Colombia,2,3,0.67
+2014,11,Ahmed Musa,Nigeria,2,4,0.5
+2014,11,Oscar,Brasil,2,7,0.29
+2014,11,Ivan Perisic,Croacia,2,3,0.67
+2014,11,Bryan Ruiz,Costa Rica,2,5,0.4
+2014,11,Alexis Sanchez,Chile,2,4,0.5
+2014,11,Islam Slimani,Argelia,2,4,0.5
+2014,11,Luis Suarez,Uruguay,2,2,1.0
+2014,33,Xabi Alonso,España,1,3,0.33
+2014,33,Charles Aránguiz,Chile,1,4,0.25
+2014,33,Pablo Armero,Colombia,1,5,0.2
+2014,33,Mario Balotelli,Italia,1,3,0.33
+2014,33,Jean Beausejour,Chile,1,2,0.5
+2014,33,Daley Blind,Paises Bajos,1,7,0.14
+2014,33,Yacine Brahimi,Argelia,1,3,0.33
+2014,33,John Anthony Brooks,Estados Unidos,1,1,1.0
+2014,33,Joel Campbell,Costa Rica,1,5,0.2
+2014,33,Edinson Cavani,Uruguay,1,4,0.25
+2014,33,Carlo Costly,Honduras,1,3,0.33
+2014,33,Juan Guillermo Cuadrado,Colombia,1,5,0.2
+2014,33,Kevin De Bruyne,Bélgica,1,4,0.25
+2014,33,Stefan de Vrij,Paises Bajos,1,7,0.14
+2014,33,Angel Di Maria,Argentina,1,5,0.2
+2014,33,Giovani dos Santos,México,1,4,0.25
+2014,33,Óscar Duarte,Costa Rica,1,4,0.25
+2014,33,Edin Dzeko,Bosnia-Herzegovina,1,3,0.33
+2014,33,Blerim Dzemaili,Suiza,1,3,0.33
+2014,33,Sofiane Feghouli,Argelia,1,4,0.25
+2014,33,Marouane Fellaini,Bélgica,1,5,0.2
+2014,33,Leroy Fer,Paises Bajos,1,1,1.0
+2014,33,Fernandinho,Brasil,1,5,0.2
+2014,33,Fred,Brasil,1,6,0.17
+2014,33,Reza Ghoochannejhad,Irán,1,3,0.33
+2014,33,Olivier Giroud,Francia,1,5,0.2
+2014,33,Diego Godin,Uruguay,1,4,0.25
+2014,33,Julian Green,Estados Unidos,1,1,1.0
+2014,33,Andres Guardado,México,1,4,0.25
+2014,33,Teófilo Gutiérrez,Colombia,1,4,0.25
+2014,33,Rafik Halliche,Argelia,1,4,0.25
+2014,33,Javier Hernandez,México,1,4,0.25
+2014,33,Gonzalo Higuain,Argentina,1,7,0.14
+2014,33,Keisuke Honda,Japón,1,3,0.33
+2014,33,Klaas Jan Huntelaar,Paises Bajos,1,3,0.33
+2014,33,Vedad Ibisevic,Bosnia-Herzegovina,1,3,0.33
+2014,33,Mile Jedinak,Australia,1,3,0.33
+2014,33,Jermaine Jones,Estados Unidos,1,4,0.25
+2014,33,Alexander Kerzhakov,Rusia,1,3,0.33
+2014,33,Sami Khedira,Alemania,1,5,0.2
+2014,33,Alexander Kokorin,Rusia,1,3,0.33
+2014,33,Ja-Cheol Koo,Corea del Sur,1,3,0.33
+2014,33,Keun-Ho Lee,Corea del Sur,1,3,0.33
+2014,33,Romelu Lukaku,Bélgica,1,4,0.25
+2014,33,Claudio Marchisio,Italia,1,3,0.33
+2014,33,Rafael Marquez,México,1,4,0.25
+2014,33,Juan Mata,España,1,1,1.0
+2014,33,Joel Matip,Camerún,1,2,0.5
+2014,33,Blaise Matuidi,Francia,1,5,0.2
+2014,33,Admir Mehmedi,Suiza,1,4,0.25
+2014,33,Dries Mertens,Bélgica,1,5,0.2
+2014,33,Nani,Portugal,1,3,0.33
+2014,33,Peter Odemwingie,Nigeria,1,4,0.25
+2014,33,Shinji Okazaki,Japón,1,3,0.33
+2014,33,Ivica Olic,Croacia,1,3,0.33
+2014,33,Divock Origi,Bélgica,1,5,0.2
+2014,33,Mesut Ozil,Alemania,1,7,0.14
+2014,33,Sokratis Papastathopoulos,Grecia,1,4,0.25
+2014,33,Oribe Peralta,México,1,4,0.25
+2014,33,Miralem Pjanic,Bosnia-Herzegovina,1,3,0.33
+2014,33,Paul Pogba,Francia,1,5,0.2
+2014,33,Juan Quintero,Colombia,1,3,0.33
+2014,33,Marcos Rojo,Argentina,1,6,0.17
+2014,33,Cristiano Ronaldo,Portugal,1,3,0.33
+2014,33,Wayne Rooney,Inglaterra,1,3,0.33
+2014,33,Georgios Samaras,Grecia,1,4,0.25
+2014,33,Andreas Samaris,Grecia,1,2,0.5
+2014,33,Haris Seferovic,Suiza,1,4,0.25
+2014,33,Thiago Silva,Brasil,1,6,0.17
+2014,33,Moussa Sissoko,Francia,1,4,0.25
+2014,33,Wesley Sneijder,Paises Bajos,1,6,0.17
+2014,33,Heung-Min Son,Corea del Sur,1,3,0.33
+2014,33,Daniel Sturridge,Inglaterra,1,3,0.33
+2014,33,Fernando Torres,España,1,3,0.33
+2014,33,Marco Ureña,Costa Rica,1,4,0.25
+2014,33,Mathieu Valbuena,Francia,1,4,0.25
+2014,33,Jorge Valdivia,Chile,1,3,0.33
+2014,33,Silvestre Varela,Portugal,1,2,0.5
+2014,33,Eduardo Vargas,Chile,1,4,0.25
+2014,33,Jan Vertonghen,Bélgica,1,5,0.2
+2014,33,David Villa,España,1,1,1.0
+2014,33,Avdija Vrsajevic,Bosnia-Herzegovina,1,1,1.0
+2014,33,Georginio Wijnaldum,Paises Bajos,1,7,0.14
+2014,33,Granit Xhaka,Suiza,1,4,0.25
+2018,1,Harry Kane,Inglaterra,6,6,1.0
+2018,2,Denis Cheryshev,Rusia,4,5,0.8
+2018,2,Antoine Griezmann,Francia,4,7,0.57
+2018,2,Romelu Lukaku,Bélgica,4,6,0.67
+2018,2,Kylian Mbappé,Francia,4,7,0.57
+2018,2,Cristiano Ronaldo,Portugal,4,4,1.0
+2018,7,Edinson Cavani,Uruguay,3,4,0.75
+2018,7,Diego Costa,España,3,4,0.75
+2018,7,Artem Dzyuba,Rusia,3,5,0.6
+2018,7,Eden Hazard,Bélgica,3,6,0.5
+2018,7,Mario Mandzukic,Croacia,3,6,0.5
+2018,7,Yerry Mina,Colombia,3,3,1.0
+2018,7,Ivan Perisic,Croacia,3,7,0.43
+2018,14,Sergio Agüero,Argentina,2,4,0.5
+2018,14,Andreas Granqvist,Suecia,2,5,0.4
+2018,14,Takashi Inui,Japón,2,4,0.5
+2018,14,Mile Jedinak,Australia,2,3,0.67
+2018,14,Wahbi Khazri,Túnez,2,3,0.67
+2018,14,Luka Modric,Croacia,2,7,0.29
+2018,14,Ahmed Musa,Nigeria,2,3,0.67
+2018,14,Neymar Jr.,Brasil,2,5,0.4
+2018,14,Philippe Coutinho,Brasil,2,5,0.4
+2018,14,Mohamed Salah,Egipto,2,2,1.0
+2018,14,Heung-Min Son,Corea del Sur,2,3,0.67
+2018,14,John Stones,Inglaterra,2,7,0.29
+2018,14,Luis Suarez,Uruguay,2,5,0.4
+2018,27,Salem Al-Dawsari,Arabia Saudita,1,3,0.33
+2018,27,Salman Al-Faraj,Arabia Saudita,1,3,0.33
+2018,27,Dele Alli,Inglaterra,1,5,0.2
+2018,27,Karim Ansarifard,Irán,1,3,0.33
+2018,27,Iago Aspas,España,1,3,0.33
+2018,27,Ludwig Augustinsson,Suecia,1,5,0.2
+2018,27,Milan Badelj,Croacia,1,3,0.33
+2018,27,Felipe Baloy,Panamá,1,1,1.0
+2018,27,Michy Batshuayi,Bélgica,1,3,0.33
+2018,27,Jan Bednarek,Polonia,1,3,0.33
+2018,27,Fakhreddine Ben Youssef,Túnez,1,3,0.33
+2018,27,Khalid Boutaïb,Marruecos,1,2,0.5
+2018,27,Dylan Bronn,Túnez,1,2,0.5
+2018,27,André Carrillo,Perú,1,3,0.33
+2018,27,Nacer Chadli,Bélgica,1,6,0.17
+2018,27,Juan Guillermo Cuadrado,Colombia,1,4,0.25
+2018,27,Kevin De Bruyne,Bélgica,1,6,0.17
+2018,27,Angel Di Maria,Argentina,1,3,0.33
+2018,27,Josip Drmic,Suiza,1,3,0.33
+2018,27,Blerim Dzemaili,Suiza,1,4,0.25
+2018,27,Youssef En-Nesyri,Marruecos,1,1,1.0
+2018,27,Christian Eriksen,Dinamarca,1,4,0.25
+2018,27,Radamel Falcao,Colombia,1,4,0.25
+2018,27,Marouane Fellaini,Bélgica,1,5,0.2
+2018,27,Mário Fernandes,Rusia,1,5,0.2
+2018,27,Alfred Finnbogason,Islandia,1,3,0.33
+2018,27,Emil Forsberg,Suecia,1,5,0.2
+2018,27,Yury Gazinsky,Rusia,1,4,0.25
+2018,27,José María Giménez,Uruguay,1,4,0.25
+2018,27,Aleksandr Golovin,Rusia,1,4,0.25
+2018,27,Paolo Guerrero,Perú,1,3,0.33
+2018,27,Genki Haraguchi,Japón,1,3,0.33
+2018,27,Javier Hernandez,México,1,4,0.25
+2018,27,Keisuke Honda,Japón,1,3,0.33
+2018,27,Isco,España,1,4,0.25
+2018,27,Adnan Januzaj,Bélgica,1,1,1.0
+2018,27,Mathias Jørgensen,Dinamarca,1,3,0.33
+2018,27,Shinji Kagawa,Japón,1,3,0.33
+2018,27,Young-Gwon Kim,Corea del Sur,1,3,0.33
+2018,27,Aleksandar Kolarov,Serbia,1,3,0.33
+2018,27,Andrej Kramarić,Croacia,1,7,0.14
+2018,27,Toni Kroos,Alemania,1,3,0.33
+2018,27,Grzegorz Krychowiak,Polonia,1,3,0.33
+2018,27,Jesse Lingard,Inglaterra,1,6,0.17
+2018,27,Hirving Lozano,México,1,4,0.25
+2018,27,Harry Maguire,Inglaterra,1,7,0.14
+2018,27,Sadio Mané,Senegal,1,3,0.33
+2018,27,Gabriel Mercado,Argentina,1,3,0.33
+2018,27,Dries Mertens,Bélgica,1,6,0.17
+2018,27,Lionel Messi,Argentina,1,4,0.25
+2018,27,Thomas Meunier,Bélgica,1,5,0.2
+2018,27,Aleksandar Mitrović,Serbia,1,3,0.33
+2018,27,Victor Moses,Nigeria,1,3,0.33
+2018,27,Nacho,España,1,2,0.5
+2018,27,M'Baye Niang,Senegal,1,3,0.33
+2018,27,Yuya Osako,Japón,1,4,0.25
+2018,27,Paulinho,Brasil,1,5,0.2
+2018,27,Benjamin Pavard,Francia,1,6,0.17
+2018,27,Pepe,Portugal,1,4,0.25
+2018,27,Paul Pogba,Francia,1,6,0.17
+2018,27,Ricardo Quaresma,Portugal,1,3,0.33
+2018,27,Juan Quintero,Colombia,1,4,0.25
+2018,27,Ivan Rakitic,Croacia,1,7,0.14
+2018,27,Ante Rebic,Croacia,1,6,0.17
+2018,27,Renato Augusto,Brasil,1,3,0.33
+2018,27,Marco Reus,Alemania,1,3,0.33
+2018,27,Roberto Firmino,Brasil,1,4,0.25
+2018,27,Marcos Rojo,Argentina,1,3,0.33
+2018,27,Ferjani Sassi,Túnez,1,3,0.33
+2018,27,Xherdan Shaqiri,Suiza,1,4,0.25
+2018,27,Gylfi Sigurdsson,Islandia,1,3,0.33
+2018,27,Thiago Silva,Brasil,1,5,0.2
+2018,27,Ola Toivonen,Suecia,1,5,0.2
+2018,27,Kieran Trippier,Inglaterra,1,6,0.17
+2018,27,Samuel Umtiti,Francia,1,6,0.17
+2018,27,Raphael Varane,Francia,1,7,0.14
+2018,27,Carlos Vela,México,1,4,0.25
+2018,27,Jan Vertonghen,Bélgica,1,6,0.17
+2018,27,Domagoj Vida,Croacia,1,6,0.17
+2018,27,Moussa Wagué,Senegal,1,3,0.33
+2018,27,Kendall Waston,Costa Rica,1,1,1.0
+2018,27,Granit Xhaka,Suiza,1,4,0.25
+2018,27,Yussuf Yurary Poulsen,Dinamarca,1,3,0.33
+2018,27,Steven Zuber,Suiza,1,3,0.33
+2022,1,Kylian Mbappé,Francia,8,7,1.14
+2022,2,Lionel Messi,Argentina,7,7,1.0
+2022,3,Julian Alvarez,Argentina,4,7,0.57
+2022,3,Olivier Giroud,Francia,4,6,0.67
+2022,5,Cody Gakpo,Paises Bajos,3,5,0.6
+2022,5,Álvaro Morata,España,3,4,0.75
+2022,5,Gonçalo Ramos,Portugal,3,4,0.75
+2022,5,Marcus Rashford,Inglaterra,3,5,0.6
+2022,5,Richarlison,Brasil,3,4,0.75
+2022,5,Bukayo Saka,Inglaterra,3,4,0.75
+2022,5,Enner Valencia,Ecuador,3,3,1.0
+2022,12,Vincent Aboubakar,Camerún,2,3,0.67
+2022,12,Salem Al-Dawsari,Arabia Saudita,2,3,0.67
+2022,12,Gue-sung Cho,Corea del Sur,2,4,0.5
+2022,12,Giorgian De Arrascaeta,Uruguay,2,2,1.0
+2022,12,Ritsu Doan,Japón,2,4,0.5
+2022,12,Breel Embolo,Suiza,2,4,0.5
+2022,12,Youssef En-Nesyri,Marruecos,2,7,0.29
+2022,12,Bruno Fernandes,Portugal,2,4,0.5
+2022,12,Niclas Füllkrug,Alemania,2,3,0.67
+2022,12,Kai Havertz,Alemania,2,2,1.0
+2022,12,Harry Kane,Inglaterra,2,5,0.4
+2022,12,Andrej Kramarić,Croacia,2,7,0.29
+2022,12,Mohammed Kudus,Ghana,2,3,0.67
+2022,12,Rafael Leão,Portugal,2,5,0.4
+2022,12,Robert Lewandowski,Polonia,2,4,0.5
+2022,12,Aleksandar Mitrović,Serbia,2,3,0.67
+2022,12,Neymar Jr.,Brasil,2,3,0.67
+2022,12,Mehdi Taremi,Irán,2,3,0.67
+2022,12,Ferran Torres,España,2,4,0.5
+2022,12,Wout Weghorst,Paises Bajos,2,4,0.5
+2022,32,Zakaria Aboukhlal,Marruecos,1,4,0.25
+2022,32,Manuel Akanji,Suiza,1,4,0.25
+2022,32,Saleh Al-Shehri,Arabia Saudita,1,3,0.33
+2022,32,Takuma Asano,Japón,1,4,0.25
+2022,32,Marco Asensio,España,1,4,0.25
+2022,32,Andre Ayew,Ghana,1,3,0.33
+2022,32,Gareth Bale,Gales,1,3,0.33
+2022,32,Michy Batshuayi,Bélgica,1,2,0.5
+2022,32,Jude Bellingham,Inglaterra,1,5,0.2
+2022,32,Daley Blind,Paises Bajos,1,5,0.2
+2022,32,Osman Bukari,Ghana,1,2,0.5
+2022,32,Moisés Caicedo,Ecuador,1,3,0.33
+2022,32,Casemiro,Brasil,1,4,0.25
+2022,32,Jean-Charles Castelletto,Camerún,1,2,0.5
+2022,32,Luis Chávez,México,1,3,0.33
+2022,32,Rouzbeh Cheshmi,Irán,1,2,0.5
+2022,32,Eric Maxim Choupo Moting,Camerún,1,3,0.33
+2022,32,Andreas Christensen,Dinamarca,1,3,0.33
+2022,32,Achraf Dari,Marruecos,1,3,0.33
+2022,32,Alphonso Davies,Canadá,1,3,0.33
+2022,32,Frenkie de Jong,Paises Bajos,1,5,0.2
+2022,32,Memphis Depay,Paises Bajos,1,5,0.2
+2022,32,Angel Di Maria,Argentina,1,5,0.2
+2022,32,Boulaye Dia,Senegal,1,4,0.25
+2022,32,Famara Diéhiou,Senegal,1,2,0.5
+2022,32,Bamba Dieng,Senegal,1,4,0.25
+2022,32,Mitchell Duke,Australia,1,4,0.25
+2022,32,Denzel Dumfries,Paises Bajos,1,5,0.2
+2022,32,João Félix,Portugal,1,4,0.25
+2022,32,Enzo Fernandez,Argentina,1,7,0.14
+2022,32,Phil Foden,Inglaterra,1,4,0.25
+2022,32,Remo Freuler,Suiza,1,4,0.25
+2022,32,Keysher Fuller,Costa Rica,1,3,0.33
+2022,32,Gavi,España,1,4,0.25
+2022,32,Serge Gnabry,Alemania,1,3,0.33
+2022,32,Craig Goodwin,Australia,1,4,0.25
+2022,32,Jack Grealish,Inglaterra,1,5,0.2
+2022,32,Raphaël Guerreiro,Portugal,1,4,0.25
+2022,32,Ilkay Gündogan,Alemania,1,3,0.33
+2022,32,Josko Gvardiol,Croacia,1,7,0.14
+2022,32,Jordan Henderson,Inglaterra,1,4,0.25
+2022,32,Théo Hernandez,Francia,1,6,0.17
+2022,32,Ricardo Horta,Portugal,1,3,0.33
+2022,32,Hee-chan Hwang,Corea del Sur,1,2,0.5
+2022,32,Wahbi Khazri,Túnez,1,2,0.5
+2022,32,Young-Gwon Kim,Corea del Sur,1,4,0.25
+2022,32,Davy Klaassen,Paises Bajos,1,4,0.25
+2022,32,Randal Kolo Muani,Francia,1,3,0.33
+2022,32,Kalidou Koulibaly,Senegal,1,4,0.25
+2022,32,Mathew Leckie,Australia,1,4,0.25
+2022,32,Marko Livaja,Croacia,1,6,0.17
+2022,32,Alexis Mac Allister,Argentina,1,6,0.17
+2022,32,Daizen Maeda,Japón,1,3,0.33
+2022,32,Lovro Majer,Croacia,1,7,0.14
+2022,32,Henry Martin,México,1,2,0.5
+2022,32,Sergej Milinković-Savić,Serbia,1,3,0.33
+2022,32,Nahuel Molina,Argentina,1,7,0.14
+2022,32,Mohammed Muntari,Catar,1,3,0.33
+2022,32,Dani Olmo,España,1,4,0.25
+2022,32,Mislav Orsic,Croacia,1,6,0.17
+2022,32,Seung-ho Paik,Corea del Sur,1,1,1.0
+2022,32,Lucas Paqueta,Brasil,1,4,0.25
+2022,32,Strahinja Pavlovic,Serbia,1,3,0.33
+2022,32,Pepe,Portugal,1,4,0.25
+2022,32,Ivan Perisic,Croacia,1,7,0.14
+2022,32,Bruno Petkovic,Croacia,1,6,0.17
+2022,32,Christian Pulisic,Estados Unidos,1,4,0.25
+2022,32,Adrien Rabiot,Francia,1,6,0.17
+2022,32,Ramin Rezaeian,Irán,1,2,0.5
+2022,32,Cristiano Ronaldo,Portugal,1,5,0.2
+2022,32,Romain Saïss,Marruecos,1,6,0.17
+2022,32,Mohammed Salisu,Ghana,1,3,0.33
+2022,32,Ismaïla Sarr,Senegal,1,4,0.25
+2022,32,Xherdan Shaqiri,Suiza,1,3,0.33
+2022,32,Carlos Soler,España,1,2,0.5
+2022,32,Raheem Sterling,Inglaterra,1,3,0.33
+2022,32,Ao Tanaka,Japón,1,3,0.33
+2022,32,Aurélien Tchouaméni,Francia,1,7,0.14
+2022,32,Yeltsin Tejeda,Costa Rica,1,3,0.33
+2022,32,Juan Pablo Vargas,Costa Rica,1,1,1.0
+2022,32,Vinicius Junior,Brasil,1,4,0.25
+2022,32,Dusan Vlahovic,Serbia,1,2,0.5
+2022,32,Tim Weah,Estados Unidos,1,4,0.25
+2022,32,Haji Wright,Estados Unidos,1,4,0.25
+2022,32,Piotr Zieliński,Polonia,1,4,0.25
+2022,32,Hakim Ziyech,Marruecos,1,7,0.14
