@@ -37,9 +37,23 @@ from bs4 import BeautifulSoup
 # ─────────────────────────────────────────────
 #  CONFIGURACIÓN
 # ─────────────────────────────────────────────
-BASE_URL   = "https://www.losmundialesdefutbol.com/mundiales"
-DELAY      = 0.6
-HEADERS    = {"User-Agent": "Mozilla/5.0 (educational scraper)"}
+ORIGINAL_BASE = "https://www.losmundialesdefutbol.com/mundiales"
+WAYBACK       = "https://web.archive.org/web/20260101"
+BASE_URL      = f"{WAYBACK}/{ORIGINAL_BASE}"
+DELAY      = 2.0
+HEADERS    = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/122.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "es-ES,es;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Referer": "https://web.archive.org/",
+    "Upgrade-Insecure-Requests": "1",
+}
 OUTPUT_DIR = "output_csv"
 
 ANIOS = [
@@ -67,18 +81,27 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
 
 # ─────────────────────────────────────────────
 #  UTILIDADES
 # ─────────────────────────────────────────────
 def get_soup(url: str) -> BeautifulSoup | None:
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-        return BeautifulSoup(resp.text, "html.parser")
-    except Exception as exc:
-        log.warning(f"Error al obtener {url}: {exc}")
-        return None
+    for intento in range(4):
+        try:
+            resp = SESSION.get(url, timeout=30)
+            resp.raise_for_status()
+            return BeautifulSoup(resp.text, "html.parser")
+        except Exception as exc:
+            espera = 15 * (2 ** intento)  # 15s, 30s, 60s, 120s
+            if intento < 3:
+                log.warning(f"Intento {intento+1} fallido. Reintentando en {espera}s...")
+                time.sleep(espera)
+            else:
+                log.warning(f"Error al obtener {url}: {exc}")
+    return None
 
 
 def safe_int(text: str):
@@ -118,9 +141,10 @@ def obtener_urls_grupos(anio: int) -> list[dict]:
             continue
 
         grupo_id = m.group(1)           # "1", "2", "a", "b", etc.
+        original = f"{ORIGINAL_BASE}/{anio}_grupo_{grupo_id}.php"
         url_grupo = (
-            href if href.startswith("http")
-            else f"https://www.losmundialesdefutbol.com/mundiales/{anio}_grupo_{grupo_id}.php"
+            href if href.startswith("https://web.archive.org")
+            else f"{WAYBACK}/{original}"
         )
 
         if url_grupo in vistos:
@@ -313,7 +337,7 @@ def main():
 
     # Resumen
     log.info(f"\n{'═'*55}")
-    log.info(f" \/ Proceso completado.")
+    log.info(f" \\/ Proceso completado.")
     log.info(f"   Grupos procesados          : {total_grupos}")
     log.info(f"   Filas grupo_seleccion      : {total_filas}")
     log.info(f"   {path_grupos}")
