@@ -211,6 +211,5 @@ erDiagram
 2. Las sedes se normalizaron con una tabla intermedia porque un mundial puede tener mas
    de un pais anfitrion.
 3. `slug_partido` se almacena para relacionar facilmente `partido` con `gol_partido`.
-4. Los datos de grupo quedaron modelados aunque hoy los CSV de grupos esten vacios.
-5. La fecha de nacimiento del jugador se conserva como texto para no perder informacion
-   original del sitio.
+4. Los datos de grupo quedaron modelados.
+5. La fecha de nacimiento del jugador se conserva como texto para no perder informacion original del sitio.

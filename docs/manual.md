@@ -177,10 +177,3 @@ CALL sp_pais_historial('Brasil', 2002);
    Los principales ajustes hechos durante la prueba real quedaron incorporados en
    `sql/02_load_data_mysql.sql`.
 
-## Recomendacion para cerrar el proyecto
-
-Para una entrega mas solida, el siguiente paso recomendado es:
-
-1. Volver a ejecutar `scraper_grupos.py` cuando necesites regenerar los CSV de grupos.
-2. Cargar nuevamente la base con `sql/02_load_data_mysql.sql`.
-3. Probar los dos stored procedures con al menos 3 paises y 3 mundiales.
