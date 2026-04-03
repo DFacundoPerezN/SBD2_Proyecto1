@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+tmp_*.html
+docs/enunciado_extraido.txt
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
