@@ -39,7 +39,8 @@ Lo que hacia falta agregar para dejarlo alineado con el enunciado era:
 
 ## Motor de base de datos elegido
 
-Se dejo la solucion preparada para `MySQL 8.0`.
+Se dejo la solucion preparada para `MySQL`, y fue validada en una instalacion local con
+`MySQL Server 9.2` y `MySQL Workbench 8.0 CE`.
 
 Motivos:
 
@@ -77,17 +78,31 @@ Ejecutar en este orden:
 
 ## Como cargar los CSV
 
-Antes de ejecutar `sql/02_load_data_mysql.sql`, ajustar esta linea:
+El script `sql/02_load_data_mysql.sql` ya incluye rutas absolutas a los CSV del proyecto,
+por lo que no hace falta editar una variable de ruta antes de ejecutarlo.
+
+Antes de correrlo, verifica que `LOAD DATA LOCAL INFILE` este habilitado tanto en el
+servidor como en el cliente.
+
+En el servidor:
 
 ```sql
-SET @base_path = 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1';
+SHOW GLOBAL VARIABLES LIKE 'local_infile';
+SET GLOBAL local_infile = 1;
+SHOW GLOBAL VARIABLES LIKE 'local_infile';
 ```
 
-La ruta debe apuntar a la carpeta raiz del proyecto, donde existe el subdirectorio
-`output_csv`.
+En MySQL Workbench:
 
-Tambien verifica que tu cliente MySQL permita `LOAD DATA LOCAL INFILE`.
-Si esta desactivado, habilitalo en la conexion o en el cliente antes de correr el script.
+1. Ir a `Database > Manage Connections`.
+2. Editar la conexion local.
+3. En la pestana `Advanced`, agregar en `Others`:
+
+```text
+OPT_LOCAL_INFILE=1
+```
+
+4. Guardar la conexion y reconectar.
 
 Luego ejecutar todo el script. Este hace lo siguiente:
 
@@ -95,6 +110,13 @@ Luego ejecutar todo el script. Este hace lo siguiente:
 - Carga los CSV actuales.
 - Inserta catalogos y tablas finales.
 - Relaciona paises, mundiales, partidos, goles y jugadores.
+
+Durante la implementacion se ajusto este script para:
+
+- usar `LOAD DATA LOCAL INFILE` directo, compatible con MySQL Workbench
+- leer CSV con finales de linea Windows `\r\n`
+- generar `slug_partido` unico cuando hay partidos repetidos entre las mismas selecciones
+- deduplicar jugadores por `url_ficha`
 
 ## Stored procedures disponibles
 
@@ -151,9 +173,9 @@ CALL sp_pais_historial('Brasil', 2002);
    Para evitar arrastrar ese error, la carga SQL corrige campeon, subcampeon, tercero y
    cuarto usando `posiciones_finales.csv` cuando esa informacion esta disponible.
 
-4. No se ejecuto validacion directa sobre un servidor MySQL dentro de este entorno,
-   por lo que conviene correr los scripts y ajustar cualquier detalle puntual del motor
-   instalado en tu maquina si fuera necesario.
+4. La carga y validacion final si se ejecuto en un entorno local con MySQL Workbench.
+   Los principales ajustes hechos durante la prueba real quedaron incorporados en
+   `sql/02_load_data_mysql.sql`.
 
 ## Recomendacion para cerrar el proyecto
 
