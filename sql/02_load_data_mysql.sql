@@ -26,112 +26,83 @@ TRUNCATE TABLE pais;
 
 SET FOREIGN_KEY_CHECKS = 1;
 
-SET @base_path = 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1';
-SET @base_path = REPLACE(@base_path, '\\', '/');
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/mundiales.csv'
+INTO TABLE stg_mundiales CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/mundiales.csv' ",
-    "INTO TABLE stg_mundiales CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/partidos.csv'
+INTO TABLE stg_partidos CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/partidos.csv' ",
-    "INTO TABLE stg_partidos CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/mejores_goleadores.csv'
+INTO TABLE stg_mejores_goleadores CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/mejores_goleadores.csv' ",
-    "INTO TABLE stg_mejores_goleadores CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/posiciones_finales.csv'
+INTO TABLE stg_posiciones_finales CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/posiciones_finales.csv' ",
-    "INTO TABLE stg_posiciones_finales CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/goles.csv'
+INTO TABLE stg_goles CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/goles.csv' ",
-    "INTO TABLE stg_goles CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/grupos.csv'
+INTO TABLE stg_grupos CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/grupos.csv' ",
-    "INTO TABLE stg_grupos CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/grupo_seleccion.csv'
+INTO TABLE stg_grupo_seleccion CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/grupo_seleccion.csv' ",
-    "INTO TABLE stg_grupo_seleccion CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/paises.csv'
+INTO TABLE stg_paises CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/paises.csv' ",
-    "INTO TABLE stg_paises CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/jugadoresA_G.csv'
+INTO TABLE stg_jugadores CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/jugadoresA_G.csv' ",
-    "INTO TABLE stg_jugadores CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/jugadoresH_N.csv'
+INTO TABLE stg_jugadores CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/jugadoresH_N.csv' ",
-    "INTO TABLE stg_jugadores CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/jugadoresO_R.csv'
+INTO TABLE stg_jugadores CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/jugadoresO_R.csv' ",
-    "INTO TABLE stg_jugadores CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/jugadoresS_T.csv'
+INTO TABLE stg_jugadores CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/jugadoresS_T.csv' ",
-    "INTO TABLE stg_jugadores CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
-
-SET @sql = CONCAT(
-    "LOAD DATA LOCAL INFILE '", @base_path, "/output_csv/jugadoresU_Z.csv' ",
-    "INTO TABLE stg_jugadores CHARACTER SET utf8mb4 ",
-    "FIELDS TERMINATED BY ',' ENCLOSED BY '\"' ",
-    "LINES TERMINATED BY '\\n' IGNORE 1 LINES"
-);
-PREPARE stmt FROM @sql; EXECUTE stmt; DEALLOCATE PREPARE stmt;
+LOAD DATA LOCAL INFILE 'C:/Users/danii/OneDrive/Escritorio/Bases2/SBD2_Proyecto1/output_csv/jugadoresU_Z.csv'
+INTO TABLE stg_jugadores CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES;
 
 INSERT INTO pais (nombre)
 SELECT nombre
@@ -247,28 +218,45 @@ INSERT INTO partido (
     penales_local, penales_visit, slug_partido
 )
 SELECT
-    CAST(sp.anio_mundial AS UNSIGNED),
-    CAST(sp.numero_partido AS UNSIGNED),
-    STR_TO_DATE(NULLIF(TRIM(sp.fecha), ''), '%Y-%m-%d'),
-    NULLIF(TRIM(sp.etapa), ''),
+    spx.anio_mundial_num,
+    spx.numero_partido_num,
+    STR_TO_DATE(NULLIF(TRIM(spx.fecha), ''), '%Y-%m-%d'),
+    NULLIF(TRIM(spx.etapa), ''),
     pl.id_pais,
     pv.id_pais,
-    CAST(NULLIF(TRIM(sp.goles_local), '') AS UNSIGNED),
-    CAST(NULLIF(TRIM(sp.goles_visitante), '') AS UNSIGNED),
-    CAST(NULLIF(TRIM(sp.goles_local_et), '') AS UNSIGNED),
-    CAST(NULLIF(TRIM(sp.goles_visit_et), '') AS UNSIGNED),
-    CAST(NULLIF(TRIM(sp.penales_local), '') AS UNSIGNED),
-    CAST(NULLIF(TRIM(sp.penales_visit), '') AS UNSIGNED),
+    CAST(NULLIF(TRIM(spx.goles_local), '') AS UNSIGNED),
+    CAST(NULLIF(TRIM(spx.goles_visitante), '') AS UNSIGNED),
+    CAST(NULLIF(TRIM(spx.goles_local_et), '') AS UNSIGNED),
+    CAST(NULLIF(TRIM(spx.goles_visit_et), '') AS UNSIGNED),
+    CAST(NULLIF(TRIM(spx.penales_local), '') AS UNSIGNED),
+    CAST(NULLIF(TRIM(spx.penales_visit), '') AS UNSIGNED),
     CONCAT(
-        CAST(sp.anio_mundial AS UNSIGNED), '_',
-        slugify_text(sp.equipo_local), '_',
-        slugify_text(sp.equipo_visitante)
+        spx.anio_mundial_num, '_',
+        slugify_text(spx.equipo_local), '_',
+        slugify_text(spx.equipo_visitante),
+        CASE
+            WHEN spx.duplicado_orden > 1 THEN CONCAT('_', spx.duplicado_orden)
+            ELSE ''
+        END
     )
-FROM stg_partidos sp
-JOIN pais pl ON pl.nombre = TRIM(sp.equipo_local)
-JOIN pais pv ON pv.nombre = TRIM(sp.equipo_visitante)
-WHERE NULLIF(TRIM(sp.anio_mundial), '') IS NOT NULL
-  AND NULLIF(TRIM(sp.numero_partido), '') IS NOT NULL;
+FROM (
+    SELECT
+        sp.*,
+        CAST(sp.anio_mundial AS UNSIGNED) AS anio_mundial_num,
+        CAST(sp.numero_partido AS UNSIGNED) AS numero_partido_num,
+        ROW_NUMBER() OVER (
+            PARTITION BY
+                CAST(sp.anio_mundial AS UNSIGNED),
+                slugify_text(sp.equipo_local),
+                slugify_text(sp.equipo_visitante)
+            ORDER BY CAST(sp.numero_partido AS UNSIGNED)
+        ) AS duplicado_orden
+    FROM stg_partidos sp
+    WHERE NULLIF(TRIM(sp.anio_mundial), '') IS NOT NULL
+      AND NULLIF(TRIM(sp.numero_partido), '') IS NOT NULL
+) spx
+JOIN pais pl ON pl.nombre = TRIM(spx.equipo_local)
+JOIN pais pv ON pv.nombre = TRIM(spx.equipo_visitante);
 
 UPDATE partido p
 JOIN stg_goles sg ON sg.url_partido = p.slug_partido
@@ -341,6 +329,21 @@ SELECT
     NULLIF(TRIM(sj.fecha_nacimiento), ''),
     NULLIF(TRIM(sj.posicion), ''),
     NULLIF(TRIM(sj.url_ficha), '')
-FROM stg_jugadores sj
-LEFT JOIN pais p ON p.nombre = TRIM(sj.seleccion)
-WHERE NULLIF(TRIM(sj.nombre_completo), '') IS NOT NULL;
+FROM (
+    SELECT
+        MIN(seleccion) AS seleccion,
+        MIN(apellido) AS apellido,
+        MIN(nombre) AS nombre,
+        MIN(nombre_completo) AS nombre_completo,
+        MIN(fecha_nacimiento) AS fecha_nacimiento,
+        MIN(posicion) AS posicion,
+        MIN(NULLIF(TRIM(url_ficha), '')) AS url_ficha
+    FROM stg_jugadores
+    WHERE NULLIF(TRIM(nombre_completo), '') IS NOT NULL
+    GROUP BY
+        CASE
+            WHEN NULLIF(TRIM(url_ficha), '') IS NOT NULL THEN NULLIF(TRIM(url_ficha), '')
+            ELSE CONCAT('__sin_url__', TRIM(nombre_completo), '__', COALESCE(TRIM(seleccion), ''))
+        END
+) sj
+LEFT JOIN pais p ON p.nombre = TRIM(sj.seleccion);
