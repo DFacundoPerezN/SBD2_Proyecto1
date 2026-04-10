@@ -4,7 +4,11 @@
 -- Las capturas de pantalla deben mostrar fecha/hora del sistema operativo.
 -- =============================================================================
 
-USE proyecto1_mundiales;
+SET @db_name = IFNULL(@db_name, 'proyecto1_mundiales');
+SET @sql_use = CONCAT('USE `', REPLACE(@db_name, '`', '``'), '`');
+PREPARE stmt_use FROM @sql_use;
+EXECUTE stmt_use;
+DEALLOCATE PREPARE stmt_use;
 SET NAMES utf8mb4;
 
 -- Mostrar timestamp de ejecución

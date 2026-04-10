@@ -1,5 +1,15 @@
 # Manual tecnico
 
+## Documento vigente
+
+La documentacion actualizada para el Proyecto 2 en Windows se encuentra en:
+
+- `docs/manual_proyecto2_windows.md`
+- `docs/proyecto2_tecnico.md`
+- `docs/evidencia_proyecto2.md`
+
+Este archivo conserva informacion historica del proyecto anterior como referencia.
+
 ## Resumen
 
 Este proyecto corresponde a la Fase 1 del Proyecto 1 de Sistemas de Bases de Datos 2.
