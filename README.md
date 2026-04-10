@@ -5,4 +5,4 @@
 |--------------|--------------|--------------|
 | Daniel Izas       | 201801105       | DanielIzas       |
 | Diego Facundo Pérez Nicolau | 202106538  | DFacundoPerezN   |
-| Dato 4       | Dato 5       | Dato 6       |
+| Aaron Emanuel Trujillo Ibarra|201801608       | atrujillo69       |
