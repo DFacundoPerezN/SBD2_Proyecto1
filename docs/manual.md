@@ -1,5 +1,15 @@
 # Manual tecnico
 
+## Documento vigente
+
+La documentacion actualizada para el Proyecto 2 en Windows se encuentra en:
+
+- `docs/manual_proyecto2_windows.md`
+- `docs/proyecto2_tecnico.md`
+- `docs/evidencia_proyecto2.md`
+
+Este archivo conserva informacion historica del proyecto anterior como referencia.
+
 ## Resumen
 
 Este proyecto corresponde a la Fase 1 del Proyecto 1 de Sistemas de Bases de Datos 2.
@@ -177,10 +187,3 @@ CALL sp_pais_historial('Brasil', 2002);
    Los principales ajustes hechos durante la prueba real quedaron incorporados en
    `sql/02_load_data_mysql.sql`.
 
-## Recomendacion para cerrar el proyecto
-
-Para una entrega mas solida, el siguiente paso recomendado es:
-
-1. Volver a ejecutar `scraper_grupos.py` cuando necesites regenerar los CSV de grupos.
-2. Cargar nuevamente la base con `sql/02_load_data_mysql.sql`.
-3. Probar los dos stored procedures con al menos 3 paises y 3 mundiales.
